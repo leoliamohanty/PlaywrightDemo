@@ -1,0 +1,28 @@
+{
+  "name": "playwrite-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "pretest": "rimraf allure-results allure-report",
+            "test": "playwright test",
+    "allure:clean": "rimraf allure-results allure-report",
+    "allure:report": "allure generate allure-results -o allure-report --clean",
+    "allure:open": "allure open allure-report",
+    "allure:serve": "allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.6",
+    "allure-commandline": "^2.36.0",
+    "allure-playwright": "^3.4.4",
+    "rimraf": "^6.1.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.2.0"
+  }
+}
