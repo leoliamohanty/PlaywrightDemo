@@ -17,4 +17,5 @@ await signupPage.signup(page);
 
   // Validate that a success message or specific element is visible
   await expect(page).toHaveTitle('QAcart Todo App - Todos page');
+  
 });
