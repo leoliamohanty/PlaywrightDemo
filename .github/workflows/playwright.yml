@@ -39,7 +39,7 @@ jobs:
         if: always()
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.playwritedemotoken }}
           publish_dir: allure-report
 
       # ---- OPTIONAL: KEEP PLAYWRIGHT HTML ARTIFACT ----
