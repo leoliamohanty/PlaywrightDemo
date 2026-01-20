@@ -47,7 +47,7 @@ jobs:
       - name: Show active Playwright projects
         run: npx playwright test --list || true
 
-      # --- Run Playwright tests ---
+      # --- Run Playwright tests using root config ---
       - name: Run Playwright tests
         run: npx playwright test --config=playwright.config.ts
         continue-on-error: true
@@ -66,8 +66,17 @@ jobs:
           echo "Run number: $GITHUB_RUN_NUMBER" > allure-report/build.txt
           echo "Commit: $GITHUB_SHA" >> allure-report/build.txt
 
+      # --- Add enhanced environment info to Allure report ---
+      - name: Add Allure environment info
+        run: |
+          mkdir -p allure-report
+          echo "Browsers=Chromium, WebKit" > allure-report/environment.properties
+          echo "Base URL=https://qacart-todo.herokuapp.com" >> allure-report/environment.properties
+          echo "Run number=${GITHUB_RUN_NUMBER}" >> allure-report/environment.properties
+          echo "Commit=${GITHUB_SHA}" >> allure-report/environment.properties
+
       # --- Ensure allure-report exists before deploy ---
-      - name: Ensure allure-report exists
+      - name: Ensure allure-report folder exists
         run: |
           if [ ! -d "allure-report" ]; then
             mkdir -p allure-report
@@ -84,7 +93,7 @@ jobs:
           force_orphan: true
           allow_empty_commit: true
 
-      # --- Upload Playwright HTML report artifact ---
+      # --- Upload Playwright HTML Report artifact ---
       - name: Upload Playwright HTML report artifact
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4
