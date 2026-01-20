@@ -35,6 +35,10 @@ jobs:
       - name: Clean old Allure results
         run: rm -rf allure-results
 
+      # --- Set unique run id ---
+      - name: Set build id
+        run: echo "ALLURE_RUN_ID=${GITHUB_RUN_NUMBER}" >> $GITHUB_ENV
+
       # --- Run Playwright tests ---
       - name: Run Playwright tests
         run: npx playwright test
