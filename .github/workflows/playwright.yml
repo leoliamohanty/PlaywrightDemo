@@ -27,11 +27,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # --- Clean Playwright cache (BEFORE install) ---
+      - name: Clean Playwright cache
+        run: rm -rf ~/.cache/ms-playwright
+
       # --- Install Playwright Browsers ---
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
 
-      # --- CLEAN old Allure results (IMPORTANT) ---
+      # --- Clean old Allure results ---
       - name: Clean old Allure results
         run: rm -rf allure-results
 
@@ -39,19 +43,13 @@ jobs:
       - name: Set build id
         run: echo "ALLURE_RUN_ID=${GITHUB_RUN_NUMBER}" >> $GITHUB_ENV
 
-      - name: Clean Playwright cache
-        run: rm -rf ~/.cache/ms-playwright
-
+      # --- Show active Playwright projects (debug only) ---
       - name: Show active Playwright projects
-        run: npx playwright test --list
+        run: npx playwright test --list || true
 
+      # --- Run Playwright tests (ONLY ONCE) ---
       - name: Run Playwright tests
         run: npx playwright test --config=playwright.config.ts
-
-
-      # --- Run Playwright tests ---
-      - name: Run Playwright tests
-        run: npx playwright test
         continue-on-error: true
 
       # --- Install Allure CLI ---
@@ -62,7 +60,7 @@ jobs:
       - name: Generate Allure report
         run: allure generate allure-results --clean -o allure-report
 
-      # --- FORCE content change (IMPORTANT) ---
+      # --- Force content change ---
       - name: Add build marker
         run: |
           echo "Run number: $GITHUB_RUN_NUMBER" > allure-report/build.txt
