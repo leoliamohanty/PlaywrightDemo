@@ -73,3 +73,7 @@ jobs:
           name: playwright-report
           path: playwright-report/
           retention-days: 30
+
+      - uses: simple-elf/allure-report-action@v1
+        with:
+          allure_results: allure-results
