@@ -39,6 +39,16 @@ jobs:
       - name: Set build id
         run: echo "ALLURE_RUN_ID=${GITHUB_RUN_NUMBER}" >> $GITHUB_ENV
 
+      - name: Clean Playwright cache
+        run: rm -rf ~/.cache/ms-playwright
+
+      - name: Show active Playwright projects
+        run: npx playwright test --list
+
+      - name: Run Playwright tests
+        run: npx playwright test --config=playwright.config.ts
+
+
       # --- Run Playwright tests ---
       - name: Run Playwright tests
         run: npx playwright test
