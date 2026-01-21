@@ -66,15 +66,6 @@ jobs:
           echo "Run number: $GITHUB_RUN_NUMBER" > allure-report/build.txt
           echo "Commit: $GITHUB_SHA" >> allure-report/build.txt
 
-      # --- Add enhanced environment info ---
-      - name: Add Allure environment info
-        run: |
-          mkdir -p allure-report
-          echo "Browsers=Chromium, WebKit" > allure-report/environment.properties
-          echo "Base URL=https://qacart-todo.herokuapp.com" >> allure-report/environment.properties
-          echo "Run number=${GITHUB_RUN_NUMBER}" >> allure-report/environment.properties
-          echo "Commit=${GITHUB_SHA}" >> allure-report/environment.properties
-
       # --- Ensure allure-report exists before deploy ---
       - name: Ensure allure-report folder exists
         run: |
@@ -82,16 +73,6 @@ jobs:
             mkdir -p allure-report
             echo "No results" > allure-report/index.html
           fi
-
-      # --- Clean gh-pages branch before deploy ---
-      - name: Clean gh-pages branch
-        run: |
-          git fetch origin gh-pages || true
-          git checkout gh-pages || git checkout --orphan gh-pages
-          rm -rf *
-          git commit -am "Clean old reports" || echo "Nothing to commit"
-          git push origin gh-pages
-          git checkout $GITHUB_REF_NAME
 
       # --- Deploy fresh Allure report to GitHub Pages ---
       - name: Deploy Allure report
