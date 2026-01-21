@@ -8,7 +8,7 @@ test('has title', async ({ page }) => {
   await signupPage.load(page);
 
   // Expect a title "to contain" a substring.
-  await expect(page).toHaveTitle('QAcart Todo App - Signup page');
+  await expect(page).toHaveTitle('QAcart Todo Appss - Signup page');
 });
 
 test('get started', async ({ page }) => {
@@ -17,5 +17,5 @@ await signupPage.signup(page);
 
   // Validate that a success message or specific element is visible
   await expect(page).toHaveTitle('QAcart Todo App - Todos page');
-  
+
 });
