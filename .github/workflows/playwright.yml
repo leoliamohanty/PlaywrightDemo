@@ -11,8 +11,8 @@ permissions:
 
 jobs:
   test:
-    timeout-minutes: 60
     runs-on: ubuntu-latest
+    timeout-minutes: 60
 
     steps:
       # --- Checkout repo ---
@@ -27,11 +27,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # --- Clean Playwright cache ---
-      - name: Clean Playwright cache
-        run: rm -rf ~/.cache/ms-playwright
-
-      # --- Install Playwright Browsers ---
+      # --- Install Playwright browsers ---
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
 
@@ -39,20 +35,12 @@ jobs:
       - name: Clean old Allure results
         run: rm -rf allure-results allure-report
 
-      # --- Set build id ---
-      - name: Set build id
-        run: echo "ALLURE_RUN_ID=${GITHUB_RUN_NUMBER}" >> $GITHUB_ENV
-
-      # --- Debug: show projects ---
-      - name: Show active Playwright projects
-        run: npx playwright test --list || true
-
-      # --- Run Playwright tests (FAILS job on test failure) ---
+      # --- Run Playwright tests ---
       - name: Run Playwright tests
         run: npx playwright test --config=playwright.config.ts
 
       # ============================
-      # ALLURE (always runs)
+      # ALLURE STEPS (always run)
       # ============================
 
       # --- Install Allure CLI ---
@@ -65,40 +53,34 @@ jobs:
         if: always()
         run: allure generate allure-results --clean -o allure-report
 
-      # --- Cache bust Allure report ---
-      - name: Cache bust Allure report
+      # --- Prepare versioned folder for this run ---
+      - name: Prepare versioned report
         if: always()
         run: |
-          sed -i "s|</head>|<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta http-equiv=\"Expires\" content=\"0\" />\n</head>|" allure-report/index.html
+          RUN_DIR=allure-report-versioned/${{ github.run_number }}
+          mkdir -p $RUN_DIR
+          cp -R allure-report/* $RUN_DIR/
 
-      # --- Add build marker ---
-      - name: Add build marker
+      # --- Update /latest symlink for GitHub Pages ---
+      - name: Update /latest report
         if: always()
         run: |
-          echo "Run number: $GITHUB_RUN_NUMBER" > allure-report/build.txt
-          echo "Commit: $GITHUB_SHA" >> allure-report/build.txt
+          mkdir -p allure-report-versioned/latest
+          rm -rf allure-report-versioned/latest/*
+          cp -R allure-report/* allure-report-versioned/latest/
 
-      # --- Ensure allure-report exists ---
-      - name: Ensure allure-report folder exists
-        if: always()
-        run: |
-          if [ ! -d "allure-report" ]; then
-            mkdir -p allure-report
-            echo "No results" > allure-report/index.html
-          fi
-
-      # --- Deploy Allure report to GitHub Pages ---
-      - name: Deploy Allure report
+      # --- Deploy to GitHub Pages ---
+      - name: Deploy Allure reports
         if: always()
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: allure-report
+          publish_dir: allure-report-versioned
           publish_branch: gh-pages
           force_orphan: true
           allow_empty_commit: true
 
-      # --- Upload Playwright HTML report ---
+      # --- Upload Playwright HTML report artifact ---
       - name: Upload Playwright HTML report artifact
         if: always()
         uses: actions/upload-artifact@v4
