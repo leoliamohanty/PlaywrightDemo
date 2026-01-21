@@ -33,7 +33,7 @@ jobs:
 
       # --- Install Playwright Browsers ---
       - name: Install Playwright Browsers
-        run: npx playwright install --with-deps
+        run: npx playwright install chromium webkit --with-deps
 
       # --- Clean old Allure results locally ---
       - name: Clean old Allure results
@@ -47,10 +47,9 @@ jobs:
       - name: Show active Playwright projects
         run: npx playwright test --list || true
 
-      # --- Run Playwright tests using root config ---
+      # --- Run Playwright tests ---
       - name: Run Playwright tests
         run: npx playwright test --config=playwright.config.ts
-        continue-on-error: true
 
       # --- Install Allure CLI ---
       - name: Install Allure CLI
@@ -59,6 +58,109 @@ jobs:
       # --- Generate fresh Allure report ---
       - name: Generate Allure report
         run: allure generate allure-results --clean -o allure-report
+
+      # 🔥 --- Cache bust Allure report (FIXES old report without hard refresh) ---
+      - name: Cache bust Allure report
+        run: |
+          sed -i "s|</head>|<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta http-equiv=\"Expires\" content=\"0\" />\n</head>|" allure-report/index.html
+
+      # --- Add build marker ---
+      - name: Add build marker
+        run: |
+          echo "Run number: $GITHUB_RUN_NUMBER" > allure-report/build.txt
+          echo "Commit: $GITHUB_SHA" >> allure-report/build.txt
+
+      # --- Ensure allure-report exists before deploy ---
+      - name: Ensure allure-report folder exists
+        run: |
+          if [ ! -d "allure-report" ]; then
+            mkdir -p allure-report
+            echo "No results" > allure-report/index.html
+          fi
+
+      # --- Deploy fresh Allure report to GitHub Pages ---
+      - name: Deploy Allure report
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: allure-report
+          publish_branch: gh-pages
+          force_orphan: true
+          allow_empty_commit: true
+
+      # --- Upload Playwright HTML Report artifact ---
+      - name: Upload Playwright HTML report artifact
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30
+name: Playwright Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+
+    steps:
+      # --- Checkout repo ---
+      - uses: actions/checkout@v4
+
+      # --- Setup Node ---
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      # --- Install dependencies ---
+      - name: Install dependencies
+        run: npm ci
+
+      # --- Clean Playwright cache before installing browsers ---
+      - name: Clean Playwright cache
+        run: rm -rf ~/.cache/ms-playwright
+
+      # --- Install Playwright Browsers ---
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium webkit --with-deps
+
+      # --- Clean old Allure results locally ---
+      - name: Clean old Allure results
+        run: rm -rf allure-results allure-report
+
+      # --- Set unique run ID for Allure ---
+      - name: Set build id
+        run: echo "ALLURE_RUN_ID=${GITHUB_RUN_NUMBER}" >> $GITHUB_ENV
+
+      # --- Show active Playwright projects (debug) ---
+      - name: Show active Playwright projects
+        run: npx playwright test --list || true
+
+      # --- Run Playwright tests ---
+      - name: Run Playwright tests
+        run: npx playwright test --config=playwright.config.ts
+
+      # --- Install Allure CLI ---
+      - name: Install Allure CLI
+        run: npm install -g allure-commandline
+
+      # --- Generate fresh Allure report ---
+      - name: Generate Allure report
+        run: allure generate allure-results --clean -o allure-report
+
+      # 🔥 --- Cache bust Allure report (FIXES old report without hard refresh) ---
+      - name: Cache bust Allure report
+        run: |
+          sed -i "s|</head>|<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\n<meta http-equiv=\"Pragma\" content=\"no-cache\" />\n<meta http-equiv=\"Expires\" content=\"0\" />\n</head>|" allure-report/index.html
 
       # --- Add build marker ---
       - name: Add build marker
