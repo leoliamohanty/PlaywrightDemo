@@ -28,7 +28,7 @@ export default class SignupPage {
 	}
 
 	private get submitButton() {
-		return `[data-testid=submitt]`;
+		return `[data-testid=submit]`;
 	}
 
 	async signup(page: Page) {

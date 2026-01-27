@@ -8,5 +8,5 @@ test('Login', async ({ page }) => {
 await loginpage.login(page);
 
   // Validate that a success message or specific element is visible
-  await expect(page).toHaveTitle('QAcart Todo App23 - Todos page');
+  await expect(page).toHaveTitle('QAcart Todo App - Todos page');
 });
