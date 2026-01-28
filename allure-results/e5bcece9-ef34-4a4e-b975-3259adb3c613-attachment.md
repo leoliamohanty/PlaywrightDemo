@@ -1,0 +1,56 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - img [ref=e5]
+    - generic [ref=e6]:
+      - link "Home" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - link "Login" [ref=e8] [cursor=pointer]:
+        - /url: /login
+      - link "Signup" [ref=e9] [cursor=pointer]:
+        - /url: /signup
+  - generic [ref=e12]:
+    - heading "Register to Application" [level=2] [ref=e13]
+    - heading "Ready to mark some Todos as completed?" [level=2] [ref=e14]
+    - generic [ref=e15]:
+      - generic:
+        - text: FirstName
+        - generic: "*"
+      - generic [ref=e16]:
+        - textbox [ref=e17]: Kenyon
+        - group
+    - generic [ref=e18]:
+      - generic:
+        - text: LastName
+        - generic: "*"
+      - generic [ref=e19]:
+        - textbox [ref=e20]: Metz
+        - group
+    - generic [ref=e21]:
+      - generic:
+        - text: Email
+        - generic: "*"
+      - generic [ref=e22]:
+        - textbox [ref=e23]: Edmund_DAmore83@hotmail.com
+        - group
+    - generic [ref=e24]:
+      - generic:
+        - text: Password
+        - generic: "*"
+      - generic [ref=e25]:
+        - textbox [active] [ref=e26]: Test@1234
+        - group
+    - generic [ref=e27]:
+      - generic:
+        - text: Confirm Password
+        - generic: "*"
+      - generic [ref=e28]:
+        - textbox [ref=e29]
+        - group
+    - button "Signup" [ref=e30] [cursor=pointer]:
+      - generic [ref=e31]: Signup
+    - separator [ref=e32]
+    - heading "Do you have an Account?" [level=2] [ref=e33]
+```

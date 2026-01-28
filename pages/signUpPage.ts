@@ -24,7 +24,7 @@ export default class SignupPage {
 	}
 
 	private get confirmPasswordInput() {
-		return `[data-testid=confirm-password]`;
+		return `[data-testid=confirm-passworde]`;
 	}
 
 	private get submitButton() {
