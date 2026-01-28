@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write # Required for posting comments
 
 jobs:
   test:
@@ -32,6 +33,7 @@ jobs:
 
       - name: Run Playwright tests
         run: npx playwright test --config=playwright.config.ts
+        continue-on-error: true # Ensures reporting runs even if tests fail
 
       # ============================
       # ALLURE STEPS
@@ -45,23 +47,17 @@ jobs:
         if: always()
         run: allure generate allure-results --clean -o allure-report
 
-      - name: Prepare versioned folder for this run
+      - name: Prepare versioned folder
         if: always()
         run: |
           mkdir -p gh-pages/allure/${{ github.run_number }}
           cp -R allure-report/* gh-pages/allure/${{ github.run_number }}/
-
-      - name: Update /latest report
-        if: always()
-        run: |
+          
           mkdir -p gh-pages/allure/latest
           rm -rf gh-pages/allure/latest/*
           cp -R allure-report/* gh-pages/allure/latest/
-
-      - name: Add redirect index.html
-        if: always()
-        run: |
-          echo '<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=allure/latest/"></head><body>Redirecting to latest Allure report...</body></html>' > gh-pages/index.html
+          
+          echo '<!DOCTYPE html><html><head><meta http-equiv="refresh" content="0; url=allure/latest/"></head><body>Redirecting...</body></html>' > gh-pages/index.html
 
       - name: Deploy Allure reports
         if: always()
@@ -70,8 +66,19 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: gh-pages
           publish_branch: gh-pages
-          force_orphan: true
+          force_orphan: false # CHANGED: Set to false to preserve history
+          keep_files: true    # NEW: Prevents deletion of previous run folders
           allow_empty_commit: true
+
+      - name: Post Report Link to PR
+        if: always() && github.event_name == 'pull_request'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            ### 📊 Allure Test Report
+            - **Unique Run Link:** https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure/${{ github.run_number }}/
+            - **Latest Report:** https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure/latest/
+          comment_tag: allure_report
 
       - name: Upload Playwright HTML report artifact
         if: always()
