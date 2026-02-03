@@ -1,0 +1,5 @@
+Registering user with email: Lamont.Barrows18@hotmail.com Vaughn Auer
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMDg4OGVlMDRiMDAxNWMxZDJiYiIsImZpcnN0TmFtZSI6IlZhdWdobiIsImxhc3ROYW1lIjoiQXVlciIsImlhdCI6MTc3MDEzMTU5Mn0.vKR3iql01G63-FV9vI7lDMUC5SN5TbHBlt30BR4zKWI","userID":"698210888ee04b0015c1d2bb","firstName":"Vaughn"}
+User registered successfully!
+Email: Lamont.Barrows18@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMDg4OGVlMDRiMDAxNWMxZDJiYiIsImZpcnN0TmFtZSI6IlZhdWdobiIsImxhc3ROYW1lIjoiQXVlciIsImlhdCI6MTc3MDEzMTU5Mn0.vKR3iql01G63-FV9vI7lDMUC5SN5TbHBlt30BR4zKWI

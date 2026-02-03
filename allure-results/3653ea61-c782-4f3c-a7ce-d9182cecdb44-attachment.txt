@@ -1,0 +1,5 @@
+Registering user with email: Dillon74@hotmail.com Dariana Volkman
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMDk0OGVlMDRiMDAxNWMxZDJjYyIsImZpcnN0TmFtZSI6IkRhcmlhbmEiLCJsYXN0TmFtZSI6IlZvbGttYW4iLCJpYXQiOjE3NzAxMzE2MDR9.bk8c4Gxk4qZ_DikbDF5EMbJkRlBR9tdjGPi-wmSyW1Q","userID":"698210948ee04b0015c1d2cc","firstName":"Dariana"}
+User registered successfully!
+Email: Dillon74@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMDk0OGVlMDRiMDAxNWMxZDJjYyIsImZpcnN0TmFtZSI6IkRhcmlhbmEiLCJsYXN0TmFtZSI6IlZvbGttYW4iLCJpYXQiOjE3NzAxMzE2MDR9.bk8c4Gxk4qZ_DikbDF5EMbJkRlBR9tdjGPi-wmSyW1Q

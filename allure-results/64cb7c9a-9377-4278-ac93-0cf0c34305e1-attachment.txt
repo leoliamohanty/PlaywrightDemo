@@ -1,0 +1,5 @@
+Registering user with email: Faustino_Smith@gmail.com Marlene Herzog
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMGEyOGVlMDRiMDAxNWMxZDJkZCIsImZpcnN0TmFtZSI6Ik1hcmxlbmUiLCJsYXN0TmFtZSI6IkhlcnpvZyIsImlhdCI6MTc3MDEzMTYxOX0.ES_1ZbW7J77puzsHhFMXWLnpNSlT1wlh2h92drc-9Go","userID":"698210a28ee04b0015c1d2dd","firstName":"Marlene"}
+User registered successfully!
+Email: Faustino_Smith@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMGEyOGVlMDRiMDAxNWMxZDJkZCIsImZpcnN0TmFtZSI6Ik1hcmxlbmUiLCJsYXN0TmFtZSI6IkhlcnpvZyIsImlhdCI6MTc3MDEzMTYxOX0.ES_1ZbW7J77puzsHhFMXWLnpNSlT1wlh2h92drc-9Go
