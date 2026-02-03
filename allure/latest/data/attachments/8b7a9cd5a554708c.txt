@@ -1,0 +1,5 @@
+Registering user with email: Enos_Streich@hotmail.com Candido Gutmann
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxOGNlOGVlMDRiMDAxNWMxZDNjOSIsImZpcnN0TmFtZSI6IkNhbmRpZG8iLCJsYXN0TmFtZSI6Ikd1dG1hbm4iLCJpYXQiOjE3NzAxMzM3MTF9.Y-eJcgKONJhbL48RM4t0zwQptKO-FUVvSG0U8tqkFY8","userID":"698218ce8ee04b0015c1d3c9","firstName":"Candido"}
+User registered successfully!
+Email: Enos_Streich@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxOGNlOGVlMDRiMDAxNWMxZDNjOSIsImZpcnN0TmFtZSI6IkNhbmRpZG8iLCJsYXN0TmFtZSI6Ikd1dG1hbm4iLCJpYXQiOjE3NzAxMzM3MTF9.Y-eJcgKONJhbL48RM4t0zwQptKO-FUVvSG0U8tqkFY8

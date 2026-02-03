@@ -1,0 +1,5 @@
+Registering user with email: Bonita.Nolan@hotmail.com Jamie Torp
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxOGMyOGVlMDRiMDAxNWMxZDNiOCIsImZpcnN0TmFtZSI6IkphbWllIiwibGFzdE5hbWUiOiJUb3JwIiwiaWF0IjoxNzcwMTMzNjk4fQ.Famra7v87Koo9PxPPM3n4oaXyZYkkxtXPf1OFxqthzE","userID":"698218c28ee04b0015c1d3b8","firstName":"Jamie"}
+User registered successfully!
+Email: Bonita.Nolan@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxOGMyOGVlMDRiMDAxNWMxZDNiOCIsImZpcnN0TmFtZSI6IkphbWllIiwibGFzdE5hbWUiOiJUb3JwIiwiaWF0IjoxNzcwMTMzNjk4fQ.Famra7v87Koo9PxPPM3n4oaXyZYkkxtXPf1OFxqthzE

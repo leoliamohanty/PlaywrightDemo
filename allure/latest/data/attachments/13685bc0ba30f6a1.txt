@@ -1,0 +1,5 @@
+Registering user with email: Ezekiel.Roob0@gmail.com Clare Schimmel
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxOGI3OGVlMDRiMDAxNWMxZDNhNyIsImZpcnN0TmFtZSI6IkNsYXJlIiwibGFzdE5hbWUiOiJTY2hpbW1lbCIsImlhdCI6MTc3MDEzMzY4N30.td6LOeKJXX9TirdPzJ7FxPx5nyFd_AHPz1OVJYZAMII","userID":"698218b78ee04b0015c1d3a7","firstName":"Clare"}
+User registered successfully!
+Email: Ezekiel.Roob0@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxOGI3OGVlMDRiMDAxNWMxZDNhNyIsImZpcnN0TmFtZSI6IkNsYXJlIiwibGFzdE5hbWUiOiJTY2hpbW1lbCIsImlhdCI6MTc3MDEzMzY4N30.td6LOeKJXX9TirdPzJ7FxPx5nyFd_AHPz1OVJYZAMII
