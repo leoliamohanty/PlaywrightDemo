@@ -1,0 +1,5 @@
+Registering user with email: Brandy52@yahoo.com Iliana Herzog
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxNGVmOGVlMDRiMDAxNWMxZDM4NSIsImZpcnN0TmFtZSI6IklsaWFuYSIsImxhc3ROYW1lIjoiSGVyem9nIiwiaWF0IjoxNzcwMTMyNzE5fQ.q5Bc303u34Az5xPDPGdU38FhKAS8CokXeKeweoLmtuU","userID":"698214ef8ee04b0015c1d385","firstName":"Iliana"}
+User registered successfully!
+Email: Brandy52@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxNGVmOGVlMDRiMDAxNWMxZDM4NSIsImZpcnN0TmFtZSI6IklsaWFuYSIsImxhc3ROYW1lIjoiSGVyem9nIiwiaWF0IjoxNzcwMTMyNzE5fQ.q5Bc303u34Az5xPDPGdU38FhKAS8CokXeKeweoLmtuU
