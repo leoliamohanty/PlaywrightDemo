@@ -23,5 +23,4 @@ test('codegen test', async ({ page }) => {
   await page.getByTestId('complete-task').click;
   await page.getByTestId('delete').click();
   await page.getByRole('button', { name: 'Logout' }).click();
-  
 });

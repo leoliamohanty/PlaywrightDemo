@@ -1,0 +1,5 @@
+Registering user with email: Jayda_Welch@yahoo.com Axel Dickinson
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMjMxOGVlMDRiMDAxNWMxZDMxZiIsImZpcnN0TmFtZSI6IkF4ZWwiLCJsYXN0TmFtZSI6IkRpY2tpbnNvbiIsImlhdCI6MTc3MDEzMjAxN30.lfUa1So-YiJgm_nb__3CXnY-oPZ0_-c7NAqs7cnLwks","userID":"698212318ee04b0015c1d31f","firstName":"Axel"}
+User registered successfully!
+Email: Jayda_Welch@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMjMxOGVlMDRiMDAxNWMxZDMxZiIsImZpcnN0TmFtZSI6IkF4ZWwiLCJsYXN0TmFtZSI6IkRpY2tpbnNvbiIsImlhdCI6MTc3MDEzMjAxN30.lfUa1So-YiJgm_nb__3CXnY-oPZ0_-c7NAqs7cnLwks

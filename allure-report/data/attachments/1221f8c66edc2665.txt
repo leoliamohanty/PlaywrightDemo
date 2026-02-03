@@ -1,0 +1,5 @@
+Registering user with email: Bert0@hotmail.com Laisha Schroeder
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMjQzOGVlMDRiMDAxNWMxZDMzMCIsImZpcnN0TmFtZSI6IkxhaXNoYSIsImxhc3ROYW1lIjoiU2Nocm9lZGVyIiwiaWF0IjoxNzcwMTMyMDM1fQ.6n2IqK1IDqlorHcIeHvq7kFsu_XU9VS9PO6aAVZKDpQ","userID":"698212438ee04b0015c1d330","firstName":"Laisha"}
+User registered successfully!
+Email: Bert0@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMjQzOGVlMDRiMDAxNWMxZDMzMCIsImZpcnN0TmFtZSI6IkxhaXNoYSIsImxhc3ROYW1lIjoiU2Nocm9lZGVyIiwiaWF0IjoxNzcwMTMyMDM1fQ.6n2IqK1IDqlorHcIeHvq7kFsu_XU9VS9PO6aAVZKDpQ

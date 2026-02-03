@@ -50,7 +50,7 @@ test('POST /users/register - register a new user', async ({ request }) => {
 
   const responseBody = await response.text();
   console.log('Response body:', responseBody);
-
+  
   expect(response.status()).toBe(201);
 
   const body = JSON.parse(responseBody);
