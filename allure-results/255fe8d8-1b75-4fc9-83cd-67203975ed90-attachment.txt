@@ -1,0 +1,5 @@
+Registering user with email: Allan65@yahoo.com Jordy Satterfield
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0Y2RlMzcyZmZhMDAxNWVjN2M0NSIsImZpcnN0TmFtZSI6IkpvcmR5IiwibGFzdE5hbWUiOiJTYXR0ZXJmaWVsZCIsImlhdCI6MTc3MDIxMjU3NH0.oqZ7FpyURc9uiudw0-BWhCVdsk1Soto56PQU__9rZDA","userID":"69834cde372ffa0015ec7c45","firstName":"Jordy"}
+User registered successfully!
+Email: Allan65@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0Y2RlMzcyZmZhMDAxNWVjN2M0NSIsImZpcnN0TmFtZSI6IkpvcmR5IiwibGFzdE5hbWUiOiJTYXR0ZXJmaWVsZCIsImlhdCI6MTc3MDIxMjU3NH0.oqZ7FpyURc9uiudw0-BWhCVdsk1Soto56PQU__9rZDA

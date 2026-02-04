@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 import { faker } from '@faker-js/faker';
 
-test('codegen test', async ({ page }) => {
+test('new todo test', async ({ page }) => {
   await page.goto('https://qacart-todo.herokuapp.com/');
   await page.getByRole('link', { name: 'Signup' }).click();
   await page.getByTestId('first-name').click();

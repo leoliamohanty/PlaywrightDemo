@@ -1,5 +1,0 @@
-Registering user with email: Raina58@yahoo.com Nella Cummerata
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMjI2OGVlMDRiMDAxNWMxZDMwOSIsImZpcnN0TmFtZSI6Ik5lbGxhIiwibGFzdE5hbWUiOiJDdW1tZXJhdGEiLCJpYXQiOjE3NzAxMzIwMDZ9.MQQbYV3Fj2V9qPd8k3F11q9UiuXf3QznDnTMukokWYE","userID":"698212268ee04b0015c1d309","firstName":"Nella"}
-User registered successfully!
-Email: Raina58@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODIxMjI2OGVlMDRiMDAxNWMxZDMwOSIsImZpcnN0TmFtZSI6Ik5lbGxhIiwibGFzdE5hbWUiOiJDdW1tZXJhdGEiLCJpYXQiOjE3NzAxMzIwMDZ9.MQQbYV3Fj2V9qPd8k3F11q9UiuXf3QznDnTMukokWYE

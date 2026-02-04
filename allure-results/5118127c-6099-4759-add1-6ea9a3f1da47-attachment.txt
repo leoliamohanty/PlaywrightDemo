@@ -1,0 +1,5 @@
+Registering user with email: Orville.Von7@yahoo.com Emiliano Anderson
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0Y2ZkMzcyZmZhMDAxNWVjN2M2NyIsImZpcnN0TmFtZSI6IkVtaWxpYW5vIiwibGFzdE5hbWUiOiJBbmRlcnNvbiIsImlhdCI6MTc3MDIxMjYwNX0.xSXLLYEaSnJp88UmgedSRo9WgalU3YVpRoFPD5Lf-5Q","userID":"69834cfd372ffa0015ec7c67","firstName":"Emiliano"}
+User registered successfully!
+Email: Orville.Von7@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0Y2ZkMzcyZmZhMDAxNWVjN2M2NyIsImZpcnN0TmFtZSI6IkVtaWxpYW5vIiwibGFzdE5hbWUiOiJBbmRlcnNvbiIsImlhdCI6MTc3MDIxMjYwNX0.xSXLLYEaSnJp88UmgedSRo9WgalU3YVpRoFPD5Lf-5Q
