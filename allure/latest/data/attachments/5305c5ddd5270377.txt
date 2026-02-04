@@ -1,0 +1,5 @@
+Registering user with email: Korbin.Auer@gmail.com Bobby Armstrong
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0ZDg2MzcyZmZhMDAxNWVjN2M4OSIsImZpcnN0TmFtZSI6IkJvYmJ5IiwibGFzdE5hbWUiOiJBcm1zdHJvbmciLCJpYXQiOjE3NzAyMTI3NDJ9.jbbEK4fDrmn4uPepYifeNXSBCk56K4Ge2Gk4IF6-AUY","userID":"69834d86372ffa0015ec7c89","firstName":"Bobby"}
+User registered successfully!
+Email: Korbin.Auer@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0ZDg2MzcyZmZhMDAxNWVjN2M4OSIsImZpcnN0TmFtZSI6IkJvYmJ5IiwibGFzdE5hbWUiOiJBcm1zdHJvbmciLCJpYXQiOjE3NzAyMTI3NDJ9.jbbEK4fDrmn4uPepYifeNXSBCk56K4Ge2Gk4IF6-AUY

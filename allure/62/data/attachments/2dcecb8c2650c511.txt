@@ -1,0 +1,5 @@
+Registering user with email: Nikolas79@gmail.com Margot DuBuque
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0ZDdhMzcyZmZhMDAxNWVjN2M3OCIsImZpcnN0TmFtZSI6Ik1hcmdvdCIsImxhc3ROYW1lIjoiRHVCdXF1ZSIsImlhdCI6MTc3MDIxMjczMH0.zPEQaOJuUexqJIS-Pqlk-n8svSkls6QYRUpNZcYaphQ","userID":"69834d7a372ffa0015ec7c78","firstName":"Margot"}
+User registered successfully!
+Email: Nikolas79@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0ZDdhMzcyZmZhMDAxNWVjN2M3OCIsImZpcnN0TmFtZSI6Ik1hcmdvdCIsImxhc3ROYW1lIjoiRHVCdXF1ZSIsImlhdCI6MTc3MDIxMjczMH0.zPEQaOJuUexqJIS-Pqlk-n8svSkls6QYRUpNZcYaphQ

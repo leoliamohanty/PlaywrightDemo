@@ -1,0 +1,5 @@
+Registering user with email: Julian.Ebert27@yahoo.com Georgiana Larkin
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0ZDk0MzcyZmZhMDAxNWVjN2M5YSIsImZpcnN0TmFtZSI6Ikdlb3JnaWFuYSIsImxhc3ROYW1lIjoiTGFya2luIiwiaWF0IjoxNzcwMjEyNzU2fQ.DdbP7LHXjrVnA2DwFbbo9Oo9ybj9fFg5EX6fGxXOHSc","userID":"69834d94372ffa0015ec7c9a","firstName":"Georgiana"}
+User registered successfully!
+Email: Julian.Ebert27@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0ZDk0MzcyZmZhMDAxNWVjN2M5YSIsImZpcnN0TmFtZSI6Ikdlb3JnaWFuYSIsImxhc3ROYW1lIjoiTGFya2luIiwiaWF0IjoxNzcwMjEyNzU2fQ.DdbP7LHXjrVnA2DwFbbo9Oo9ybj9fFg5EX6fGxXOHSc
