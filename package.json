@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-        "pretest": "rimraf allure-results allure-report",
-            "test": "playwright test",
+    "pretest": "rimraf allure-results allure-report",
+    "test": "playwright test",
     "allure:clean": "rimraf allure-results allure-report",
     "allure:report": "allure generate allure-results -o allure-report --clean",
     "allure:open": "allure open allure-report",
@@ -23,6 +23,7 @@
     "rimraf": "^6.1.2"
   },
   "dependencies": {
-    "@faker-js/faker": "^10.2.0"
+    "@faker-js/faker": "^10.2.0",
+    "xlsx": "^0.18.5"
   }
 }

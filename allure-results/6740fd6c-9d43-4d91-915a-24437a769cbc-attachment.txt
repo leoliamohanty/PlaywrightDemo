@@ -1,0 +1,5 @@
+Registering user with email: Lura59@hotmail.com Kiara Schroeder
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODliNzc5Y2VjMWY5MDAxNTM5ZmI2NiIsImZpcnN0TmFtZSI6IktpYXJhIiwibGFzdE5hbWUiOiJTY2hyb2VkZXIiLCJpYXQiOjE3NzA2MzMwODF9.CicBw0heeuAlU5Kr-mfy6-MdhpDCiTKaNgqYxJ_ZIr0","userID":"6989b779cec1f9001539fb66","firstName":"Kiara"}
+User registered successfully!
+Email: Lura59@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODliNzc5Y2VjMWY5MDAxNTM5ZmI2NiIsImZpcnN0TmFtZSI6IktpYXJhIiwibGFzdE5hbWUiOiJTY2hyb2VkZXIiLCJpYXQiOjE3NzA2MzMwODF9.CicBw0heeuAlU5Kr-mfy6-MdhpDCiTKaNgqYxJ_ZIr0

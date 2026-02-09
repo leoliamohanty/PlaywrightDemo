@@ -1,5 +1,0 @@
-Registering user with email: Dolores.Hahn@yahoo.com Kari Price
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0Y2U4MzcyZmZhMDAxNWVjN2M1NSIsImZpcnN0TmFtZSI6IkthcmkiLCJsYXN0TmFtZSI6IlByaWNlIiwiaWF0IjoxNzcwMjEyNTg1fQ.gwt5H_9F460NjqJEmiv0Dqg_EM2iML82Dk7XjQZeTsk","userID":"69834ce8372ffa0015ec7c55","firstName":"Kari"}
-User registered successfully!
-Email: Dolores.Hahn@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODM0Y2U4MzcyZmZhMDAxNWVjN2M1NSIsImZpcnN0TmFtZSI6IkthcmkiLCJsYXN0TmFtZSI6IlByaWNlIiwiaWF0IjoxNzcwMjEyNTg1fQ.gwt5H_9F460NjqJEmiv0Dqg_EM2iML82Dk7XjQZeTsk

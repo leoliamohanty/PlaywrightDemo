@@ -36,6 +36,8 @@ export default defineConfig({
     
 		video: 'on',
 		screenshot: 'on',
+    acceptDownloads: true,
+
     // headless: false,
   },
 
