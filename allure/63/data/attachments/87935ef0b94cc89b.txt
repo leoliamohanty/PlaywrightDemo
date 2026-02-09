@@ -1,0 +1,5 @@
+Registering user with email: Claudine_DAmore60@yahoo.com Jan Funk
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODllODNkY2VjMWY5MDAxNTM5ZmRhYSIsImZpcnN0TmFtZSI6IkphbiIsImxhc3ROYW1lIjoiRnVuayIsImlhdCI6MTc3MDY0NTU2Nn0.sBh21qqlAsFSUW3D1Mi_xM9X3OSDo4yIph8NInAPzNU","userID":"6989e83dcec1f9001539fdaa","firstName":"Jan"}
+User registered successfully!
+Email: Claudine_DAmore60@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODllODNkY2VjMWY5MDAxNTM5ZmRhYSIsImZpcnN0TmFtZSI6IkphbiIsImxhc3ROYW1lIjoiRnVuayIsImlhdCI6MTc3MDY0NTU2Nn0.sBh21qqlAsFSUW3D1Mi_xM9X3OSDo4yIph8NInAPzNU

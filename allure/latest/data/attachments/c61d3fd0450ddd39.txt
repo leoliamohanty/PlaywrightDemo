@@ -1,0 +1,5 @@
+Registering user with email: Tavares25@gmail.com Frieda Larson
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODllODRiY2VjMWY5MDAxNTM5ZmRiYiIsImZpcnN0TmFtZSI6IkZyaWVkYSIsImxhc3ROYW1lIjoiTGFyc29uIiwiaWF0IjoxNzcwNjQ1NTc5fQ.5697GocZ96MCqBLNmvD6MJcBoZNBMmlvToFXAV0vpXE","userID":"6989e84bcec1f9001539fdbb","firstName":"Frieda"}
+User registered successfully!
+Email: Tavares25@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODllODRiY2VjMWY5MDAxNTM5ZmRiYiIsImZpcnN0TmFtZSI6IkZyaWVkYSIsImxhc3ROYW1lIjoiTGFyc29uIiwiaWF0IjoxNzcwNjQ1NTc5fQ.5697GocZ96MCqBLNmvD6MJcBoZNBMmlvToFXAV0vpXE
