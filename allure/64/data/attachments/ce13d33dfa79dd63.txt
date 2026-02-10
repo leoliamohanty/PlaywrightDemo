@@ -1,0 +1,5 @@
+Registering user with email: Oswaldo.Leuschke23@gmail.com Hipolito Jacobs
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIzODQ0YzI5ODNjMDAxNWZmNWUzMyIsImZpcnN0TmFtZSI6IkhpcG9saXRvIiwibGFzdE5hbWUiOiJKYWNvYnMiLCJpYXQiOjE3NzA3MzE1ODh9.w2-u7iQaxIe0YvesH2BubmtbjKyyeGIxie3nFaDfdnc","userID":"698b3844c2983c0015ff5e33","firstName":"Hipolito"}
+User registered successfully!
+Email: Oswaldo.Leuschke23@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIzODQ0YzI5ODNjMDAxNWZmNWUzMyIsImZpcnN0TmFtZSI6IkhpcG9saXRvIiwibGFzdE5hbWUiOiJKYWNvYnMiLCJpYXQiOjE3NzA3MzE1ODh9.w2-u7iQaxIe0YvesH2BubmtbjKyyeGIxie3nFaDfdnc

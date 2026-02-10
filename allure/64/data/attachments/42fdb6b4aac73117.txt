@@ -1,0 +1,5 @@
+Registering user with email: Jacky6@yahoo.com Boris Kuhn
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIzODFjYzI5ODNjMDAxNWZmNWUwYSIsImZpcnN0TmFtZSI6IkJvcmlzIiwibGFzdE5hbWUiOiJLdWhuIiwiaWF0IjoxNzcwNzMxNTQ4fQ.mQt9dlQW2CxlXP23N_vnD9VuzELlJ-z392q4I9Dr7hA","userID":"698b381cc2983c0015ff5e0a","firstName":"Boris"}
+User registered successfully!
+Email: Jacky6@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIzODFjYzI5ODNjMDAxNWZmNWUwYSIsImZpcnN0TmFtZSI6IkJvcmlzIiwibGFzdE5hbWUiOiJLdWhuIiwiaWF0IjoxNzcwNzMxNTQ4fQ.mQt9dlQW2CxlXP23N_vnD9VuzELlJ-z392q4I9Dr7hA
