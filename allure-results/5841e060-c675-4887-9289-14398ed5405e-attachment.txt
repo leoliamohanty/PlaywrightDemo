@@ -1,5 +1,0 @@
-Registering user with email: Kobe98@yahoo.com Geoffrey Sporer
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODliNzg3Y2VjMWY5MDAxNTM5ZmI3YiIsImZpcnN0TmFtZSI6Ikdlb2ZmcmV5IiwibGFzdE5hbWUiOiJTcG9yZXIiLCJpYXQiOjE3NzA2MzMwOTV9.J1gGsHMcpXuzUE4uIIRPhsqxOhcUdkOsr_sXAMugiZo","userID":"6989b787cec1f9001539fb7b","firstName":"Geoffrey"}
-User registered successfully!
-Email: Kobe98@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODliNzg3Y2VjMWY5MDAxNTM5ZmI3YiIsImZpcnN0TmFtZSI6Ikdlb2ZmcmV5IiwibGFzdE5hbWUiOiJTcG9yZXIiLCJpYXQiOjE3NzA2MzMwOTV9.J1gGsHMcpXuzUE4uIIRPhsqxOhcUdkOsr_sXAMugiZo

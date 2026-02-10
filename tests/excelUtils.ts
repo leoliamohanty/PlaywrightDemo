@@ -6,7 +6,7 @@ export function readExcel(fileName: string, sheetName: string) {
   const workbook = XLSX.readFile(filePath);
   const sheet = workbook.Sheets[sheetName];
 
-  return XLSX.utils.sheet_to_json(sheet);
+  return XLSX.utils.sheet_to_json<Record<string, any>>(sheet);
 }
 
 export function writeExcel(fileName: string, sheetName: string, data: any[]) {
@@ -18,3 +18,18 @@ export function writeExcel(fileName: string, sheetName: string, data: any[]) {
   const filePath = path.resolve(__dirname, fileName);
   XLSX.writeFile(workbook, filePath);
 }
+
+export function readExcelsheet(
+  filePath: string,
+  sheetName: string
+): Record<string, any>[] {
+
+  const workbook = XLSX.readFile(filePath);
+  const sheet = workbook.Sheets[sheetName];
+
+  // Convert sheet to JSON
+  const data = XLSX.utils.sheet_to_json<Record<string, any>>(sheet);
+
+  return data;
+}
+

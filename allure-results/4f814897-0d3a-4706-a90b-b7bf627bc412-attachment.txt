@@ -1,5 +1,0 @@
-Registering user with email: Mitchell74@yahoo.com Jazlyn Franecki
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODliNzczY2VjMWY5MDAxNTM5ZmI1OSIsImZpcnN0TmFtZSI6Ikphemx5biIsImxhc3ROYW1lIjoiRnJhbmVja2kiLCJpYXQiOjE3NzA2MzMwNzV9.MHIihdfLSkjxgyvZW7K_4KcBiUOK6Ov0CqDwq3DsdC0","userID":"6989b773cec1f9001539fb59","firstName":"Jazlyn"}
-User registered successfully!
-Email: Mitchell74@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5ODliNzczY2VjMWY5MDAxNTM5ZmI1OSIsImZpcnN0TmFtZSI6Ikphemx5biIsImxhc3ROYW1lIjoiRnJhbmVja2kiLCJpYXQiOjE3NzA2MzMwNzV9.MHIihdfLSkjxgyvZW7K_4KcBiUOK6Ov0CqDwq3DsdC0
