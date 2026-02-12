@@ -1,5 +1,0 @@
-Registering user with email: Clare_Deckow@gmail.com Cyrus Schmeler
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIxNDM0YzI5ODNjMDAxNWZmNWNmMyIsImZpcnN0TmFtZSI6IkN5cnVzIiwibGFzdE5hbWUiOiJTY2htZWxlciIsImlhdCI6MTc3MDcyMjM1Nn0.FRJ195jz3MLShUAhXA4_Y6eQcZLCaN11gOjdqdAfcBA","userID":"698b1434c2983c0015ff5cf3","firstName":"Cyrus"}
-User registered successfully!
-Email: Clare_Deckow@gmail.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIxNDM0YzI5ODNjMDAxNWZmNWNmMyIsImZpcnN0TmFtZSI6IkN5cnVzIiwibGFzdE5hbWUiOiJTY2htZWxlciIsImlhdCI6MTc3MDcyMjM1Nn0.FRJ195jz3MLShUAhXA4_Y6eQcZLCaN11gOjdqdAfcBA

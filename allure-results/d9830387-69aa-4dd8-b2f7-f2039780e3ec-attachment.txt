@@ -1,5 +1,0 @@
-Registering user with email: Delaney20@yahoo.com Frankie Blanda
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIxNDI3YzI5ODNjMDAxNWZmNWNlMiIsImZpcnN0TmFtZSI6IkZyYW5raWUiLCJsYXN0TmFtZSI6IkJsYW5kYSIsImlhdCI6MTc3MDcyMjM0M30.os1nkAq13vNLt22XzUvnj1Ayrn_lQEcFhUoUrewUW48","userID":"698b1427c2983c0015ff5ce2","firstName":"Frankie"}
-User registered successfully!
-Email: Delaney20@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGIxNDI3YzI5ODNjMDAxNWZmNWNlMiIsImZpcnN0TmFtZSI6IkZyYW5raWUiLCJsYXN0TmFtZSI6IkJsYW5kYSIsImlhdCI6MTc3MDcyMjM0M30.os1nkAq13vNLt22XzUvnj1Ayrn_lQEcFhUoUrewUW48

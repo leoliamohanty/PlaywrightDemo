@@ -1,0 +1,5 @@
+Registering user with email: Alfreda27@hotmail.com Blaise Harvey
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlN2E1ZjBhZmEzMDAxNTBmYzFlNyIsImZpcnN0TmFtZSI6IkJsYWlzZSIsImxhc3ROYW1lIjoiSGFydmV5IiwiaWF0IjoxNzcwOTA3NTU3fQ.aRiLOZPmRbbrn-OJGuKJaCUvZvJURqB4_qljZ8KK6Q8","userID":"698de7a5f0afa300150fc1e7","firstName":"Blaise"}
+User registered successfully!
+Email: Alfreda27@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlN2E1ZjBhZmEzMDAxNTBmYzFlNyIsImZpcnN0TmFtZSI6IkJsYWlzZSIsImxhc3ROYW1lIjoiSGFydmV5IiwiaWF0IjoxNzcwOTA3NTU3fQ.aRiLOZPmRbbrn-OJGuKJaCUvZvJURqB4_qljZ8KK6Q8

@@ -1,0 +1,5 @@
+Registering user with email: Fleta.Hackett@hotmail.com Marcelle Blick
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlN2UwZjBhZmEzMDAxNTBmYzIwOSIsImZpcnN0TmFtZSI6Ik1hcmNlbGxlIiwibGFzdE5hbWUiOiJCbGljayIsImlhdCI6MTc3MDkwNzYxNn0.AscGcIN8MeBpNEs569nMJgTTQH0SQfG-B607-TVlNHo","userID":"698de7e0f0afa300150fc209","firstName":"Marcelle"}
+User registered successfully!
+Email: Fleta.Hackett@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlN2UwZjBhZmEzMDAxNTBmYzIwOSIsImZpcnN0TmFtZSI6Ik1hcmNlbGxlIiwibGFzdE5hbWUiOiJCbGljayIsImlhdCI6MTc3MDkwNzYxNn0.AscGcIN8MeBpNEs569nMJgTTQH0SQfG-B607-TVlNHo

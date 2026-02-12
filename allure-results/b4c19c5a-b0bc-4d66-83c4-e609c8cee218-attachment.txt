@@ -1,0 +1,5 @@
+Registering user with email: Fiona39@gmail.com Rosanna Tillman
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlN2JjZjBhZmEzMDAxNTBmYzFmOCIsImZpcnN0TmFtZSI6IlJvc2FubmEiLCJsYXN0TmFtZSI6IlRpbGxtYW4iLCJpYXQiOjE3NzA5MDc1ODB9.liBMqMnf_nCBy3i9CmfsTSKPSEwT3rwkRKhyh5g83FI","userID":"698de7bcf0afa300150fc1f8","firstName":"Rosanna"}
+User registered successfully!
+Email: Fiona39@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlN2JjZjBhZmEzMDAxNTBmYzFmOCIsImZpcnN0TmFtZSI6IlJvc2FubmEiLCJsYXN0TmFtZSI6IlRpbGxtYW4iLCJpYXQiOjE3NzA5MDc1ODB9.liBMqMnf_nCBy3i9CmfsTSKPSEwT3rwkRKhyh5g83FI
