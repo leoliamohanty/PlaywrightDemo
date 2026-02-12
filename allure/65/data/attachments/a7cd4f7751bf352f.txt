@@ -1,0 +1,5 @@
+Registering user with email: Ezekiel_Hahn-Harvey20@gmail.com Elton O'Kon
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlZTE1ZjBhZmEzMDAxNTBmYzI5ZSIsImZpcnN0TmFtZSI6IkVsdG9uIiwibGFzdE5hbWUiOiJPJ0tvbiIsImlhdCI6MTc3MDkwOTIwNX0.4H2wD_yMyMnUmYxYgpcaMDT1q59YMBreSQowqN1GU3I","userID":"698dee15f0afa300150fc29e","firstName":"Elton"}
+User registered successfully!
+Email: Ezekiel_Hahn-Harvey20@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlZTE1ZjBhZmEzMDAxNTBmYzI5ZSIsImZpcnN0TmFtZSI6IkVsdG9uIiwibGFzdE5hbWUiOiJPJ0tvbiIsImlhdCI6MTc3MDkwOTIwNX0.4H2wD_yMyMnUmYxYgpcaMDT1q59YMBreSQowqN1GU3I

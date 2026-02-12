@@ -1,0 +1,5 @@
+Registering user with email: Maia.Auer@hotmail.com Aurore Rempel
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlZTJmZjBhZmEzMDAxNTBmYzJhZiIsImZpcnN0TmFtZSI6IkF1cm9yZSIsImxhc3ROYW1lIjoiUmVtcGVsIiwiaWF0IjoxNzcwOTA5MjMxfQ.umilc5EYCdxO-1cAZZ5B9ZLErpPDAD5y--ifB3gJ1f8","userID":"698dee2ff0afa300150fc2af","firstName":"Aurore"}
+User registered successfully!
+Email: Maia.Auer@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlZTJmZjBhZmEzMDAxNTBmYzJhZiIsImZpcnN0TmFtZSI6IkF1cm9yZSIsImxhc3ROYW1lIjoiUmVtcGVsIiwiaWF0IjoxNzcwOTA5MjMxfQ.umilc5EYCdxO-1cAZZ5B9ZLErpPDAD5y--ifB3gJ1f8

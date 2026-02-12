@@ -1,0 +1,5 @@
+Registering user with email: Maximillian37@gmail.com Harry Boyle
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlZGZmZjBhZmEzMDAxNTBmYzI4ZCIsImZpcnN0TmFtZSI6IkhhcnJ5IiwibGFzdE5hbWUiOiJCb3lsZSIsImlhdCI6MTc3MDkwOTE4M30.gAdzW9mX5u4rIXx-ZxsbdABtm_h_oPLsunbBI7nvF8Y","userID":"698dedfff0afa300150fc28d","firstName":"Harry"}
+User registered successfully!
+Email: Maximillian37@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGRlZGZmZjBhZmEzMDAxNTBmYzI4ZCIsImZpcnN0TmFtZSI6IkhhcnJ5IiwibGFzdE5hbWUiOiJCb3lsZSIsImlhdCI6MTc3MDkwOTE4M30.gAdzW9mX5u4rIXx-ZxsbdABtm_h_oPLsunbBI7nvF8Y

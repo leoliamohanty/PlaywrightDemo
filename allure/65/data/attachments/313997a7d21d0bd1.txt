@@ -1,0 +1,3 @@
+Box A bounds: { x: 155, y: 88.69999694824219, width: 150, height: 150 }
+Box B bounds: { x: 370, y: 88.69999694824219, width: 150, height: 150 }
+Box A text after drag: B
