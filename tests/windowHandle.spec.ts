@@ -123,3 +123,114 @@ test.describe('ElementHandle boundingBox example', () => {
 
 });
 
+
+test('should read href attribute using ElementHandle.getAttribute()', async ({ page }) => {
+  // Navigate to a page
+  await page.goto('https://example.com');
+
+  // Get an ElementHandle for the first <a> element
+  const elementHandle = await page.$('a');
+
+  // Ensure element exists
+  expect(elementHandle).not.toBeNull();
+
+  if (elementHandle) {
+    // Get the href attribute
+    const hrefValue = await elementHandle.getAttribute('href');
+
+    console.log('Href attribute:', hrefValue);
+
+    // Assertion
+    expect(hrefValue).toBe('https://iana.org/domains/example');
+  }
+});
+
+
+test('should read innerText using ElementHandle.innerText()', async ({ page }) => {
+  // Set simple HTML content
+  await page.setContent(`
+    <div>
+      <h1 id="title">Welcome to Playwright</h1>
+    </div>
+  `);
+
+  // Get ElementHandle
+  const elementHandle = await page.$('#title');
+
+  // Ensure element exists
+  expect(elementHandle).not.toBeNull();
+
+  if (elementHandle) {
+    // Get innerText
+    const text = await elementHandle.innerText();
+
+    console.log('InnerText:', text);
+
+    // Assertion
+    expect(text).toBe('Welcome to Playwright');
+  }
+});
+
+
+test('should read innerHTML using ElementHandle.innerHTML()', async ({ page }) => {
+  // Set HTML content
+  await page.setContent(`
+    <div id="container">
+      <span class="label">Hello</span>
+      <strong>World</strong>
+    </div>
+  `);
+
+  // Get ElementHandle
+  const elementHandle = await page.$('#container');
+
+  // Ensure element exists
+  expect(elementHandle).not.toBeNull();
+
+  if (elementHandle) {
+    // Get innerHTML
+    const html = await elementHandle.innerHTML();
+
+    console.log('InnerHTML:', html);
+
+    // Assertion
+    expect(html).toContain('<span class="label">Hello</span>');
+    expect(html).toContain('<strong>World</strong>');
+  }
+});
+
+
+test('should read textContent using ElementHandle.textContent()', async ({ page }) => {
+  await page.setContent(`
+    <div id="container">
+      <span>Hello</span>
+      <strong>World</strong>
+    </div>
+  `);
+
+  const elementHandle = await page.$('#container');
+  expect(elementHandle).not.toBeNull();
+
+  if (elementHandle) {
+    const text = await elementHandle.textContent();
+    expect(text?.replace(/\s+/g, '')).toBe('HelloWorld');
+  }
+});
+
+
+test('should use JSHandle.evaluate() to read object property', async ({ page }) => {
+  await page.goto('about:blank');
+
+  // Create a JS object inside the browser context
+  const jsHandle = await page.evaluateHandle(() => {
+    return {
+      name: 'Playwright',
+      version: 1.0,
+    };
+  });
+
+  // Use evaluate() on JSHandle
+  const name = await jsHandle.evaluate((obj) => obj.name);
+
+  expect(name).toBe('Playwright');
+});

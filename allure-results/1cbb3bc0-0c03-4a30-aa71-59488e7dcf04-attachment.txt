@@ -1,0 +1,5 @@
+Registering user with email: Joyce33@gmail.com Pinkie Little
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZGY2NzQ0N2NjMDAxNTcxZDA4ZCIsImZpcnN0TmFtZSI6IlBpbmtpZSIsImxhc3ROYW1lIjoiTGl0dGxlIiwiaWF0IjoxNzcwOTkxMDk0fQ.EMX9cSMtP4hf8zQHduSWB9gqjLuqWJMjdS4gcSmgFQc","userID":"698f2df67447cc001571d08d","firstName":"Pinkie"}
+User registered successfully!
+Email: Joyce33@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZGY2NzQ0N2NjMDAxNTcxZDA4ZCIsImZpcnN0TmFtZSI6IlBpbmtpZSIsImxhc3ROYW1lIjoiTGl0dGxlIiwiaWF0IjoxNzcwOTkxMDk0fQ.EMX9cSMtP4hf8zQHduSWB9gqjLuqWJMjdS4gcSmgFQc
