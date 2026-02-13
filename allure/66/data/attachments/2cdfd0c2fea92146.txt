@@ -1,0 +1,5 @@
+Registering user with email: River.Stoltenberg@yahoo.com Kristina Gleason
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZTdjNzQ0N2NjMDAxNTcxZDBiNiIsImZpcnN0TmFtZSI6IktyaXN0aW5hIiwibGFzdE5hbWUiOiJHbGVhc29uIiwiaWF0IjoxNzcwOTkxMjI4fQ.gESykqjt3fwkntubiaasuyfIPjJpWhGBLziBhANbnSY","userID":"698f2e7c7447cc001571d0b6","firstName":"Kristina"}
+User registered successfully!
+Email: River.Stoltenberg@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZTdjNzQ0N2NjMDAxNTcxZDBiNiIsImZpcnN0TmFtZSI6IktyaXN0aW5hIiwibGFzdE5hbWUiOiJHbGVhc29uIiwiaWF0IjoxNzcwOTkxMjI4fQ.gESykqjt3fwkntubiaasuyfIPjJpWhGBLziBhANbnSY

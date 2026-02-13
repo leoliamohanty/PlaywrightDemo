@@ -1,0 +1,5 @@
+Registering user with email: Britney26@hotmail.com Santino Cronin
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZWE2NzQ0N2NjMDAxNTcxZDBlYyIsImZpcnN0TmFtZSI6IlNhbnRpbm8iLCJsYXN0TmFtZSI6IkNyb25pbiIsImlhdCI6MTc3MDk5MTI3MH0.uv8FzyH1qkauaymU6tGhNUkO4lssqiYFPjlwmqIwQp0","userID":"698f2ea67447cc001571d0ec","firstName":"Santino"}
+User registered successfully!
+Email: Britney26@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZWE2NzQ0N2NjMDAxNTcxZDBlYyIsImZpcnN0TmFtZSI6IlNhbnRpbm8iLCJsYXN0TmFtZSI6IkNyb25pbiIsImlhdCI6MTc3MDk5MTI3MH0.uv8FzyH1qkauaymU6tGhNUkO4lssqiYFPjlwmqIwQp0

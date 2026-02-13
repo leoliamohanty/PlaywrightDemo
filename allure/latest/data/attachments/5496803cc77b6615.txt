@@ -1,0 +1,5 @@
+Registering user with email: Laury.Harris@gmail.com George Gerlach
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZThkNzQ0N2NjMDAxNTcxZDBjZSIsImZpcnN0TmFtZSI6Ikdlb3JnZSIsImxhc3ROYW1lIjoiR2VybGFjaCIsImlhdCI6MTc3MDk5MTI0NX0.E1QGrop3DZghD_NEUrcdvvsy4TjIOlM4RNLBMUalN1g","userID":"698f2e8d7447cc001571d0ce","firstName":"George"}
+User registered successfully!
+Email: Laury.Harris@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZThkNzQ0N2NjMDAxNTcxZDBjZSIsImZpcnN0TmFtZSI6Ikdlb3JnZSIsImxhc3ROYW1lIjoiR2VybGFjaCIsImlhdCI6MTc3MDk5MTI0NX0.E1QGrop3DZghD_NEUrcdvvsy4TjIOlM4RNLBMUalN1g
