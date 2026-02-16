@@ -1,0 +1,5 @@
+Registering user with email: Forrest_Lang@yahoo.com Korbin Towne
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMWQwNGQ1NGU0MDAxNWRkYTAxNSIsImZpcnN0TmFtZSI6IktvcmJpbiIsImxhc3ROYW1lIjoiVG93bmUiLCJpYXQiOjE3NzEyNDYwMzJ9.M9tkUYUql6BDAvTwhyVfAgAf96Tg1UDlCAhTmyPoNjw","userID":"699311d04d54e40015dda015","firstName":"Korbin"}
+User registered successfully!
+Email: Forrest_Lang@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMWQwNGQ1NGU0MDAxNWRkYTAxNSIsImZpcnN0TmFtZSI6IktvcmJpbiIsImxhc3ROYW1lIjoiVG93bmUiLCJpYXQiOjE3NzEyNDYwMzJ9.M9tkUYUql6BDAvTwhyVfAgAf96Tg1UDlCAhTmyPoNjw

@@ -1,0 +1,5 @@
+Registering user with email: Fanny_Hansen86@yahoo.com Felix Schultz
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMWZjNGQ1NGU0MDAxNWRkYTAyOCIsImZpcnN0TmFtZSI6IkZlbGl4IiwibGFzdE5hbWUiOiJTY2h1bHR6IiwiaWF0IjoxNzcxMjQ2MDc2fQ.UBJkIn-ThhEFPDFh-3lVpmeYMZzmX_ACCBZtMxNvw-E","userID":"699311fc4d54e40015dda028","firstName":"Felix"}
+User registered successfully!
+Email: Fanny_Hansen86@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMWZjNGQ1NGU0MDAxNWRkYTAyOCIsImZpcnN0TmFtZSI6IkZlbGl4IiwibGFzdE5hbWUiOiJTY2h1bHR6IiwiaWF0IjoxNzcxMjQ2MDc2fQ.UBJkIn-ThhEFPDFh-3lVpmeYMZzmX_ACCBZtMxNvw-E

@@ -1,0 +1,5 @@
+Registering user with email: Sanford84@hotmail.com Opal Gutkowski
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMjM1NGQ1NGU0MDAxNWRkYTAzYiIsImZpcnN0TmFtZSI6Ik9wYWwiLCJsYXN0TmFtZSI6Ikd1dGtvd3NraSIsImlhdCI6MTc3MTI0NjEzM30.a7oB6NbanNKQdUcXZ0qrRn7vDI6b2kC_KsD0qcx4w7U","userID":"699312354d54e40015dda03b","firstName":"Opal"}
+User registered successfully!
+Email: Sanford84@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMjM1NGQ1NGU0MDAxNWRkYTAzYiIsImZpcnN0TmFtZSI6Ik9wYWwiLCJsYXN0TmFtZSI6Ikd1dGtvd3NraSIsImlhdCI6MTc3MTI0NjEzM30.a7oB6NbanNKQdUcXZ0qrRn7vDI6b2kC_KsD0qcx4w7U
