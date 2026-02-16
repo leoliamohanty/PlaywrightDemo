@@ -1,0 +1,5 @@
+Registering user with email: Kellen.Zieme@gmail.com Icie Wisozk
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMGUwNGQ1NGU0MDAxNWRkYTAwMiIsImZpcnN0TmFtZSI6IkljaWUiLCJsYXN0TmFtZSI6Ildpc296ayIsImlhdCI6MTc3MTI0NTc5Mn0.ZbP4UffCbUKEOyAAmpEaHVagAjAJz-w2Vb8nPeQayc0","userID":"699310e04d54e40015dda002","firstName":"Icie"}
+User registered successfully!
+Email: Kellen.Zieme@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMGUwNGQ1NGU0MDAxNWRkYTAwMiIsImZpcnN0TmFtZSI6IkljaWUiLCJsYXN0TmFtZSI6Ildpc296ayIsImlhdCI6MTc3MTI0NTc5Mn0.ZbP4UffCbUKEOyAAmpEaHVagAjAJz-w2Vb8nPeQayc0

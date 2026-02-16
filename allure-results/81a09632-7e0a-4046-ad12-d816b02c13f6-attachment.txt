@@ -1,0 +1,5 @@
+Registering user with email: Dagmar_Crist41@gmail.com Trudie Considine
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMGI0NGQ1NGU0MDAxNWRkOWZkYyIsImZpcnN0TmFtZSI6IlRydWRpZSIsImxhc3ROYW1lIjoiQ29uc2lkaW5lIiwiaWF0IjoxNzcxMjQ1NzQ4fQ.DDAquST2zIlvbJ-rrAYzPkQK0ln76w_EZpxpM041DCU","userID":"699310b44d54e40015dd9fdc","firstName":"Trudie"}
+User registered successfully!
+Email: Dagmar_Crist41@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTMxMGI0NGQ1NGU0MDAxNWRkOWZkYyIsImZpcnN0TmFtZSI6IlRydWRpZSIsImxhc3ROYW1lIjoiQ29uc2lkaW5lIiwiaWF0IjoxNzcxMjQ1NzQ4fQ.DDAquST2zIlvbJ-rrAYzPkQK0ln76w_EZpxpM041DCU

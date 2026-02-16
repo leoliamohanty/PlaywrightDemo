@@ -1,5 +1,0 @@
-Registering user with email: Eloisa_Klein@yahoo.com Collin Schmitt
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZGU0NzQ0N2NjMDAxNTcxZDA3YyIsImZpcnN0TmFtZSI6IkNvbGxpbiIsImxhc3ROYW1lIjoiU2NobWl0dCIsImlhdCI6MTc3MDk5MTA3Nn0.XK_jAX5QFyDnv-uLVB5cx8Yy5K5NSMUEV0BWCBCAOMc","userID":"698f2de47447cc001571d07c","firstName":"Collin"}
-User registered successfully!
-Email: Eloisa_Klein@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZGU0NzQ0N2NjMDAxNTcxZDA3YyIsImZpcnN0TmFtZSI6IkNvbGxpbiIsImxhc3ROYW1lIjoiU2NobWl0dCIsImlhdCI6MTc3MDk5MTA3Nn0.XK_jAX5QFyDnv-uLVB5cx8Yy5K5NSMUEV0BWCBCAOMc

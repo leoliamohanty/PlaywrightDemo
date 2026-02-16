@@ -1,5 +1,0 @@
-Registering user with email: Maryam.Gutkowski8@yahoo.com Vidal Predovic
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZTA3NzQ0N2NjMDAxNTcxZDA5ZSIsImZpcnN0TmFtZSI6IlZpZGFsIiwibGFzdE5hbWUiOiJQcmVkb3ZpYyIsImlhdCI6MTc3MDk5MTExMX0.zA-vhkXptThrVzjeoSS69VyLF5hXi4ubjQ2N5MMpo7Y","userID":"698f2e077447cc001571d09e","firstName":"Vidal"}
-User registered successfully!
-Email: Maryam.Gutkowski8@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OGYyZTA3NzQ0N2NjMDAxNTcxZDA5ZSIsImZpcnN0TmFtZSI6IlZpZGFsIiwibGFzdE5hbWUiOiJQcmVkb3ZpYyIsImlhdCI6MTc3MDk5MTExMX0.zA-vhkXptThrVzjeoSS69VyLF5hXi4ubjQ2N5MMpo7Y
