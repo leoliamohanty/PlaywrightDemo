@@ -1,0 +1,5 @@
+Registering user with email: Alec.Haley@gmail.com Kaelyn White
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NWNiOTI0NDg1MDAxNWJjNDc5YSIsImZpcnN0TmFtZSI6IkthZWx5biIsImxhc3ROYW1lIjoiV2hpdGUiLCJpYXQiOjE3NzEzMzcxNjN9._9wB7JaGtHqVWkJ2smVUajSShsQuAWn8s7THgbD3Sro","userID":"699475cb9244850015bc479a","firstName":"Kaelyn"}
+User registered successfully!
+Email: Alec.Haley@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NWNiOTI0NDg1MDAxNWJjNDc5YSIsImZpcnN0TmFtZSI6IkthZWx5biIsImxhc3ROYW1lIjoiV2hpdGUiLCJpYXQiOjE3NzEzMzcxNjN9._9wB7JaGtHqVWkJ2smVUajSShsQuAWn8s7THgbD3Sro

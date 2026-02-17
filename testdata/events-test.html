@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Test Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        button {
+            display: block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Event Test Page</h1>
+    
+    <a id="popupLink" href="https://example.com" target="_blank" style="display: none;">Open Popup</a>
+    
+    <button id="showPopup">Show Popup</button>
+    <button id="fetchData">Fetch Data</button>
+    <button id="showAlert">Show Alert</button>
+    <button id="downloadFile">Download File</button>
+    
+    <script>
+        // Popup handler
+        document.getElementById('showPopup').addEventListener('click', () => {
+            window.open('https://example.com', '_blank');
+        });
+        
+        // Fetch data handler
+        document.getElementById('fetchData').addEventListener('click', async () => {
+            try {
+                const response = await fetch('/api/test', {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+                console.log('API Response:', response.status);
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        });
+        
+        // Alert handler
+        document.getElementById('showAlert').addEventListener('click', () => {
+            alert('This is a test alert message!');
+        });
+        
+        // Download handler
+        document.getElementById('downloadFile').addEventListener('click', () => {
+            const element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent('Test file content'));
+            element.setAttribute('download', 'test-file.txt');
+            element.style.display = 'none';
+            document.body.appendChild(element);
+            element.click();
+            document.body.removeChild(element);
+        });
+    </script>
+</body>
+</html>
