@@ -1,0 +1,5 @@
+Registering user with email: Cecelia.Pfannerstill@gmail.com Sam Rohan
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NmE4OTI0NDg1MDAxNWJjNDdiOSIsImZpcnN0TmFtZSI6IlNhbSIsImxhc3ROYW1lIjoiUm9oYW4iLCJpYXQiOjE3NzEzMzczODR9.PebAD7hiiSOhwUn6b2Ud4fVLXm0MDr8gkWYTF9FtMFo","userID":"699476a89244850015bc47b9","firstName":"Sam"}
+User registered successfully!
+Email: Cecelia.Pfannerstill@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NmE4OTI0NDg1MDAxNWJjNDdiOSIsImZpcnN0TmFtZSI6IlNhbSIsImxhc3ROYW1lIjoiUm9oYW4iLCJpYXQiOjE3NzEzMzczODR9.PebAD7hiiSOhwUn6b2Ud4fVLXm0MDr8gkWYTF9FtMFo

@@ -1,0 +1,5 @@
+Registering user with email: Shirley4@hotmail.com Trace Luettgen
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NmM2OTI0NDg1MDAxNWJjNDdjYyIsImZpcnN0TmFtZSI6IlRyYWNlIiwibGFzdE5hbWUiOiJMdWV0dGdlbiIsImlhdCI6MTc3MTMzNzQxNH0.gOZ3si2IsXtRx2Lbh0U3RLoh3Mce1ykv_Fw24fowkFg","userID":"699476c69244850015bc47cc","firstName":"Trace"}
+User registered successfully!
+Email: Shirley4@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NmM2OTI0NDg1MDAxNWJjNDdjYyIsImZpcnN0TmFtZSI6IlRyYWNlIiwibGFzdE5hbWUiOiJMdWV0dGdlbiIsImlhdCI6MTc3MTMzNzQxNH0.gOZ3si2IsXtRx2Lbh0U3RLoh3Mce1ykv_Fw24fowkFg

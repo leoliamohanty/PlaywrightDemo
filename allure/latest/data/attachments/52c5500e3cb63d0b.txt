@@ -1,0 +1,5 @@
+Registering user with email: Ryan15@hotmail.com Watson Waters
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NmU5OTI0NDg1MDAxNWJjNDdkZiIsImZpcnN0TmFtZSI6IldhdHNvbiIsImxhc3ROYW1lIjoiV2F0ZXJzIiwiaWF0IjoxNzcxMzM3NDQ5fQ.3A2JupGMSdzZwlBWKY_Aq52HnAe3rlTtlfOqDWAHgec","userID":"699476e99244850015bc47df","firstName":"Watson"}
+User registered successfully!
+Email: Ryan15@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NmU5OTI0NDg1MDAxNWJjNDdkZiIsImZpcnN0TmFtZSI6IldhdHNvbiIsImxhc3ROYW1lIjoiV2F0ZXJzIiwiaWF0IjoxNzcxMzM3NDQ5fQ.3A2JupGMSdzZwlBWKY_Aq52HnAe3rlTtlfOqDWAHgec
