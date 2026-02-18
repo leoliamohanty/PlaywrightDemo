@@ -1,0 +1,5 @@
+Registering user with email: Cicero_Murphy92@hotmail.com Adella Morar
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNzk0MmMwODg5MDAxNTc3YzI0ZSIsImZpcnN0TmFtZSI6IkFkZWxsYSIsImxhc3ROYW1lIjoiTW9yYXIiLCJpYXQiOjE3NzE0MjM2MzZ9.5UYjRQ52yEp8NPGJdq9ToKrK8mwmrjBQQYKBnrqvyYQ","userID":"6995c7942c0889001577c24e","firstName":"Adella"}
+User registered successfully!
+Email: Cicero_Murphy92@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNzk0MmMwODg5MDAxNTc3YzI0ZSIsImZpcnN0TmFtZSI6IkFkZWxsYSIsImxhc3ROYW1lIjoiTW9yYXIiLCJpYXQiOjE3NzE0MjM2MzZ9.5UYjRQ52yEp8NPGJdq9ToKrK8mwmrjBQQYKBnrqvyYQ

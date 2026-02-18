@@ -1,0 +1,5 @@
+Registering user with email: Kavon.Hessel81@yahoo.com Eunice Casper
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjN2FhMmMwODg5MDAxNTc3YzI2MyIsImZpcnN0TmFtZSI6IkV1bmljZSIsImxhc3ROYW1lIjoiQ2FzcGVyIiwiaWF0IjoxNzcxNDIzNjU4fQ.K7FsYbXBaYV2-3PrrBmfgHyltkWsOpyF7xxdraVSph8","userID":"6995c7aa2c0889001577c263","firstName":"Eunice"}
+User registered successfully!
+Email: Kavon.Hessel81@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjN2FhMmMwODg5MDAxNTc3YzI2MyIsImZpcnN0TmFtZSI6IkV1bmljZSIsImxhc3ROYW1lIjoiQ2FzcGVyIiwiaWF0IjoxNzcxNDIzNjU4fQ.K7FsYbXBaYV2-3PrrBmfgHyltkWsOpyF7xxdraVSph8

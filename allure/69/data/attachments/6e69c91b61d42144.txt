@@ -1,0 +1,5 @@
+Registering user with email: Roy0@hotmail.com Abner O'Connell
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjN2M4MmMwODg5MDAxNTc3YzI3YSIsImZpcnN0TmFtZSI6IkFibmVyIiwibGFzdE5hbWUiOiJPJ0Nvbm5lbGwiLCJpYXQiOjE3NzE0MjM2ODh9.oIjIr6fVKV2DhoV9kT89M5DkJleJm-FLE0VsV3jt_1k","userID":"6995c7c82c0889001577c27a","firstName":"Abner"}
+User registered successfully!
+Email: Roy0@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjN2M4MmMwODg5MDAxNTc3YzI3YSIsImZpcnN0TmFtZSI6IkFibmVyIiwibGFzdE5hbWUiOiJPJ0Nvbm5lbGwiLCJpYXQiOjE3NzE0MjM2ODh9.oIjIr6fVKV2DhoV9kT89M5DkJleJm-FLE0VsV3jt_1k
