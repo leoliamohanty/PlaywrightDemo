@@ -1,0 +1,5 @@
+Registering user with email: Margarett.Hoeger-Padberg@yahoo.com Julie Schultz
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNzExMmMwODg5MDAxNTc3YzIyZiIsImZpcnN0TmFtZSI6Ikp1bGllIiwibGFzdE5hbWUiOiJTY2h1bHR6IiwiaWF0IjoxNzcxNDIzNTA1fQ.3k3qFb1Yp0rkwfcZJWwO-NOYIb3xO-DNu7JONUbWxwE","userID":"6995c7112c0889001577c22f","firstName":"Julie"}
+User registered successfully!
+Email: Margarett.Hoeger-Padberg@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNzExMmMwODg5MDAxNTc3YzIyZiIsImZpcnN0TmFtZSI6Ikp1bGllIiwibGFzdE5hbWUiOiJTY2h1bHR6IiwiaWF0IjoxNzcxNDIzNTA1fQ.3k3qFb1Yp0rkwfcZJWwO-NOYIb3xO-DNu7JONUbWxwE

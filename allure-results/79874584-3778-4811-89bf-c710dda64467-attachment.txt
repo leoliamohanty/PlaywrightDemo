@@ -1,0 +1,5 @@
+Registering user with email: Sarai31@hotmail.com Karen Rath
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNmYyMmMwODg5MDAxNTc3YzIxNyIsImZpcnN0TmFtZSI6IkthcmVuIiwibGFzdE5hbWUiOiJSYXRoIiwiaWF0IjoxNzcxNDIzNDc0fQ.BJp-0OvIIqEJ-_8X-ftjEWl3YlVHNiTVr-p_dxZGcwI","userID":"6995c6f22c0889001577c217","firstName":"Karen"}
+User registered successfully!
+Email: Sarai31@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNmYyMmMwODg5MDAxNTc3YzIxNyIsImZpcnN0TmFtZSI6IkthcmVuIiwibGFzdE5hbWUiOiJSYXRoIiwiaWF0IjoxNzcxNDIzNDc0fQ.BJp-0OvIIqEJ-_8X-ftjEWl3YlVHNiTVr-p_dxZGcwI

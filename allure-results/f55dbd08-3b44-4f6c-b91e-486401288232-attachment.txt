@@ -1,5 +1,0 @@
-Registering user with email: Amelie.Bartell78@hotmail.com Madie Batz
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NWIyOTI0NDg1MDAxNWJjNDc4NSIsImZpcnN0TmFtZSI6Ik1hZGllIiwibGFzdE5hbWUiOiJCYXR6IiwiaWF0IjoxNzcxMzM3MTM4fQ.oZFXqnZkZ01dRr3hKmE4GzwWx17qanIbCGE1-tLwQ3U","userID":"699475b29244850015bc4785","firstName":"Madie"}
-User registered successfully!
-Email: Amelie.Bartell78@hotmail.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTQ3NWIyOTI0NDg1MDAxNWJjNDc4NSIsImZpcnN0TmFtZSI6Ik1hZGllIiwibGFzdE5hbWUiOiJCYXR6IiwiaWF0IjoxNzcxMzM3MTM4fQ.oZFXqnZkZ01dRr3hKmE4GzwWx17qanIbCGE1-tLwQ3U
