@@ -1,5 +1,0 @@
-Registering user with email: Jerel66@hotmail.com Uriah Blick
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNmRiMmMwODg5MDAxNTc3YzIwMiIsImZpcnN0TmFtZSI6IlVyaWFoIiwibGFzdE5hbWUiOiJCbGljayIsImlhdCI6MTc3MTQyMzQ1MX0.RG3ckCwehjqTUUdlpokqXOKNn3uq3BBq3q18WfZ3MLw","userID":"6995c6db2c0889001577c202","firstName":"Uriah"}
-User registered successfully!
-Email: Jerel66@hotmail.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTVjNmRiMmMwODg5MDAxNTc3YzIwMiIsImZpcnN0TmFtZSI6IlVyaWFoIiwibGFzdE5hbWUiOiJCbGljayIsImlhdCI6MTc3MTQyMzQ1MX0.RG3ckCwehjqTUUdlpokqXOKNn3uq3BBq3q18WfZ3MLw

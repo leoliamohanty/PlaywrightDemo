@@ -1,0 +1,5 @@
+Registering user with email: Desiree28@hotmail.com Viola Dickens
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YTA4NmE1MzgxMDAxNTU0NTI3NiIsImZpcnN0TmFtZSI6IlZpb2xhIiwibGFzdE5hbWUiOiJEaWNrZW5zIiwiaWF0IjoxNzcxNTk2Mjk2fQ.pNaxIu3Fm_yvdNXoREiOoLSZhQPgaTSxwTR17-Ck3Ak","userID":"69986a086a53810015545276","firstName":"Viola"}
+User registered successfully!
+Email: Desiree28@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YTA4NmE1MzgxMDAxNTU0NTI3NiIsImZpcnN0TmFtZSI6IlZpb2xhIiwibGFzdE5hbWUiOiJEaWNrZW5zIiwiaWF0IjoxNzcxNTk2Mjk2fQ.pNaxIu3Fm_yvdNXoREiOoLSZhQPgaTSxwTR17-Ck3Ak
