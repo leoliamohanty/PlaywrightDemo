@@ -1,0 +1,5 @@
+Registering user with email: Domingo8@hotmail.com Dovie Armstrong
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YWM5NmE1MzgxMDAxNTU0NTJiNyIsImZpcnN0TmFtZSI6IkRvdmllIiwibGFzdE5hbWUiOiJBcm1zdHJvbmciLCJpYXQiOjE3NzE1OTY0ODl9.cZCRvwcZlASxBqwYPE244wO4PDYd7iibVAs-koMgcbo","userID":"69986ac96a538100155452b7","firstName":"Dovie"}
+User registered successfully!
+Email: Domingo8@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YWM5NmE1MzgxMDAxNTU0NTJiNyIsImZpcnN0TmFtZSI6IkRvdmllIiwibGFzdE5hbWUiOiJBcm1zdHJvbmciLCJpYXQiOjE3NzE1OTY0ODl9.cZCRvwcZlASxBqwYPE244wO4PDYd7iibVAs-koMgcbo

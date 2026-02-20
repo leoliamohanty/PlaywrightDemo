@@ -1,0 +1,5 @@
+Registering user with email: Eric_Koss27@gmail.com Aiyana McDermott
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YjExNmE1MzgxMDAxNTU0NTMwOSIsImZpcnN0TmFtZSI6IkFpeWFuYSIsImxhc3ROYW1lIjoiTWNEZXJtb3R0IiwiaWF0IjoxNzcxNTk2NTYxfQ.WFAc-fO3gFCUh1DC2OA0uZXDNjk03M4WqYE9E4eZIV0","userID":"69986b116a53810015545309","firstName":"Aiyana"}
+User registered successfully!
+Email: Eric_Koss27@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YjExNmE1MzgxMDAxNTU0NTMwOSIsImZpcnN0TmFtZSI6IkFpeWFuYSIsImxhc3ROYW1lIjoiTWNEZXJtb3R0IiwiaWF0IjoxNzcxNTk2NTYxfQ.WFAc-fO3gFCUh1DC2OA0uZXDNjk03M4WqYE9E4eZIV0
