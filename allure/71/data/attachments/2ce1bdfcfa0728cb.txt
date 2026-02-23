@@ -1,0 +1,5 @@
+Registering user with email: Kacie57@hotmail.com Noelia Collins
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM2MDFiZDNiNzMwMDAxNTk2NGVkZiIsImZpcnN0TmFtZSI6Ik5vZWxpYSIsImxhc3ROYW1lIjoiQ29sbGlucyIsImlhdCI6MTc3MTg1NTg5OX0.L0KKnjMlAECzv_LfAEpSYuEOsNjdbpmSFI9ALjIxO4U","userID":"699c601bd3b7300015964edf","firstName":"Noelia"}
+User registered successfully!
+Email: Kacie57@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM2MDFiZDNiNzMwMDAxNTk2NGVkZiIsImZpcnN0TmFtZSI6Ik5vZWxpYSIsImxhc3ROYW1lIjoiQ29sbGlucyIsImlhdCI6MTc3MTg1NTg5OX0.L0KKnjMlAECzv_LfAEpSYuEOsNjdbpmSFI9ALjIxO4U

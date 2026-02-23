@@ -1,0 +1,5 @@
+Registering user with email: Allen_White@gmail.com Romaine Bahringer
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM2MDY3ZDNiNzMwMDAxNTk2NGYwOSIsImZpcnN0TmFtZSI6IlJvbWFpbmUiLCJsYXN0TmFtZSI6IkJhaHJpbmdlciIsImlhdCI6MTc3MTg1NTk3NX0.0fLmywZUgmGMqovq-09oDxt6bdrfOFQv9d1vlFhUam8","userID":"699c6067d3b7300015964f09","firstName":"Romaine"}
+User registered successfully!
+Email: Allen_White@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM2MDY3ZDNiNzMwMDAxNTk2NGYwOSIsImZpcnN0TmFtZSI6IlJvbWFpbmUiLCJsYXN0TmFtZSI6IkJhaHJpbmdlciIsImlhdCI6MTc3MTg1NTk3NX0.0fLmywZUgmGMqovq-09oDxt6bdrfOFQv9d1vlFhUam8

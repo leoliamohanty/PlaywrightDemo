@@ -1,0 +1,5 @@
+Registering user with email: Gabe.OHara86@yahoo.com Milo Gislason
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM2MDNkZDNiNzMwMDAxNTk2NGVmNCIsImZpcnN0TmFtZSI6Ik1pbG8iLCJsYXN0TmFtZSI6Ikdpc2xhc29uIiwiaWF0IjoxNzcxODU1OTMzfQ.j6xeQWcVCjEXdo3JaTaHcCm4Axx2rPBkjofjfzGUNwk","userID":"699c603dd3b7300015964ef4","firstName":"Milo"}
+User registered successfully!
+Email: Gabe.OHara86@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM2MDNkZDNiNzMwMDAxNTk2NGVmNCIsImZpcnN0TmFtZSI6Ik1pbG8iLCJsYXN0TmFtZSI6Ikdpc2xhc29uIiwiaWF0IjoxNzcxODU1OTMzfQ.j6xeQWcVCjEXdo3JaTaHcCm4Axx2rPBkjofjfzGUNwk
