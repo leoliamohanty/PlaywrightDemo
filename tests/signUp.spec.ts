@@ -13,7 +13,12 @@ test('has title', async ({ page }) => {
 
 test('get started', async ({ page }) => {
   await signupPage.load(page);
-await signupPage.signup(page);
+  
+  // Wait for navigation after signup
+  await Promise.all([
+    page.waitForNavigation({ waitUntil: 'networkidle' }),
+    signupPage.signup(page)
+  ]);
 
   // Validate that a success message or specific element is visible
   await expect(page).toHaveTitle('QAcart Todo App - Todos page');

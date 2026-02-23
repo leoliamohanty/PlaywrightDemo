@@ -1,5 +1,0 @@
-Registering user with email: Geoffrey43@gmail.com Cleo Champlin
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2OWYzNmE1MzgxMDAxNTU0NTI0OSIsImZpcnN0TmFtZSI6IkNsZW8iLCJsYXN0TmFtZSI6IkNoYW1wbGluIiwiaWF0IjoxNzcxNTk2Mjc1fQ.gFtzW7-803ku04vVSWDRF1GvRMu8e1wQ8WIYpjvLQrY","userID":"699869f36a53810015545249","firstName":"Cleo"}
-User registered successfully!
-Email: Geoffrey43@gmail.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2OWYzNmE1MzgxMDAxNTU0NTI0OSIsImZpcnN0TmFtZSI6IkNsZW8iLCJsYXN0TmFtZSI6IkNoYW1wbGluIiwiaWF0IjoxNzcxNTk2Mjc1fQ.gFtzW7-803ku04vVSWDRF1GvRMu8e1wQ8WIYpjvLQrY

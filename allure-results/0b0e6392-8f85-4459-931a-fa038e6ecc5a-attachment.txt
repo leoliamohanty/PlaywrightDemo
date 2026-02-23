@@ -1,5 +1,0 @@
-Registering user with email: Anastacio.King@hotmail.com Dimitri Shanahan
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YTIzNmE1MzgxMDAxNTU0NTI4YiIsImZpcnN0TmFtZSI6IkRpbWl0cmkiLCJsYXN0TmFtZSI6IlNoYW5haGFuIiwiaWF0IjoxNzcxNTk2MzIzfQ.N8uvoEcioxPgJWBGoe_PPhPxkoBZSbbS4k7KLe-4JrY","userID":"69986a236a5381001554528b","firstName":"Dimitri"}
-User registered successfully!
-Email: Anastacio.King@hotmail.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OTg2YTIzNmE1MzgxMDAxNTU0NTI4YiIsImZpcnN0TmFtZSI6IkRpbWl0cmkiLCJsYXN0TmFtZSI6IlNoYW5haGFuIiwiaWF0IjoxNzcxNTk2MzIzfQ.N8uvoEcioxPgJWBGoe_PPhPxkoBZSbbS4k7KLe-4JrY

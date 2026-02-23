@@ -1,0 +1,5 @@
+Registering user with email: Kayden.Franey4@hotmail.com Giles Jenkins
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM1YWU0ZDNiNzMwMDAxNTk2NGVhNyIsImZpcnN0TmFtZSI6IkdpbGVzIiwibGFzdE5hbWUiOiJKZW5raW5zIiwiaWF0IjoxNzcxODU0NTY0fQ.Cbtgt8pg2b0hG5HlajmyOMzjHG9bZScvuACBd1GSNKQ","userID":"699c5ae4d3b7300015964ea7","firstName":"Giles"}
+User registered successfully!
+Email: Kayden.Franey4@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM1YWU0ZDNiNzMwMDAxNTk2NGVhNyIsImZpcnN0TmFtZSI6IkdpbGVzIiwibGFzdE5hbWUiOiJKZW5raW5zIiwiaWF0IjoxNzcxODU0NTY0fQ.Cbtgt8pg2b0hG5HlajmyOMzjHG9bZScvuACBd1GSNKQ
