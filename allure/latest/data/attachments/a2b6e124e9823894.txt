@@ -1,0 +1,5 @@
+Registering user with email: Rahsaan.Stanton@yahoo.com Damien Johnston
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0YTBlOTJlNDMxMDAxNTVkZDljNiIsImZpcnN0TmFtZSI6IkRhbWllbiIsImxhc3ROYW1lIjoiSm9obnN0b24iLCJpYXQiOjE3NzIxMTIzOTh9.R6i7Nsp6w0Iq5Qt5TwCk6THtYw4dmN9RtU8E0n_9Mm4","userID":"69a04a0e92e43100155dd9c6","firstName":"Damien"}
+User registered successfully!
+Email: Rahsaan.Stanton@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0YTBlOTJlNDMxMDAxNTVkZDljNiIsImZpcnN0TmFtZSI6IkRhbWllbiIsImxhc3ROYW1lIjoiSm9obnN0b24iLCJpYXQiOjE3NzIxMTIzOTh9.R6i7Nsp6w0Iq5Qt5TwCk6THtYw4dmN9RtU8E0n_9Mm4

@@ -1,0 +1,5 @@
+Registering user with email: Gloria.Ruecker@gmail.com Estevan Terry
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0OWMxOTJlNDMxMDAxNTVkZDlhZiIsImZpcnN0TmFtZSI6IkVzdGV2YW4iLCJsYXN0TmFtZSI6IlRlcnJ5IiwiaWF0IjoxNzcyMTEyMzIxfQ.W3vPRUzzhZwYllPB1BGUrUnx9v3uQovazTTzTGbzsAo","userID":"69a049c192e43100155dd9af","firstName":"Estevan"}
+User registered successfully!
+Email: Gloria.Ruecker@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0OWMxOTJlNDMxMDAxNTVkZDlhZiIsImZpcnN0TmFtZSI6IkVzdGV2YW4iLCJsYXN0TmFtZSI6IlRlcnJ5IiwiaWF0IjoxNzcyMTEyMzIxfQ.W3vPRUzzhZwYllPB1BGUrUnx9v3uQovazTTzTGbzsAo

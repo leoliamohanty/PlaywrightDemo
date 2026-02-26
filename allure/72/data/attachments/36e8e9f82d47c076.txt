@@ -1,0 +1,5 @@
+Registering user with email: Annette_Lueilwitz10@hotmail.com Kamren Bergnaum
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0OThhOTJlNDMxMDAxNTVkZDk5NyIsImZpcnN0TmFtZSI6IkthbXJlbiIsImxhc3ROYW1lIjoiQmVyZ25hdW0iLCJpYXQiOjE3NzIxMTIyNjZ9.8D0tC-VKPE2cyuiDcjVElyt0PhyhZQEWMlsqi2qvu04","userID":"69a0498a92e43100155dd997","firstName":"Kamren"}
+User registered successfully!
+Email: Annette_Lueilwitz10@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0OThhOTJlNDMxMDAxNTVkZDk5NyIsImZpcnN0TmFtZSI6IkthbXJlbiIsImxhc3ROYW1lIjoiQmVyZ25hdW0iLCJpYXQiOjE3NzIxMTIyNjZ9.8D0tC-VKPE2cyuiDcjVElyt0PhyhZQEWMlsqi2qvu04
