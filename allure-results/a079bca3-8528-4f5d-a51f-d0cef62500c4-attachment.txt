@@ -1,0 +1,5 @@
+Registering user with email: Marietta_Conn83@hotmail.com Ransom Kunze
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0ODhmOTJlNDMxMDAxNTVkZDk3OSIsImZpcnN0TmFtZSI6IlJhbnNvbSIsImxhc3ROYW1lIjoiS3VuemUiLCJpYXQiOjE3NzIxMTIwMTV9.njxCD8rEP0jOv7xQ46m59kgMNnpcLOgYjBdhD36KKkA","userID":"69a0488f92e43100155dd979","firstName":"Ransom"}
+User registered successfully!
+Email: Marietta_Conn83@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0ODhmOTJlNDMxMDAxNTVkZDk3OSIsImZpcnN0TmFtZSI6IlJhbnNvbSIsImxhc3ROYW1lIjoiS3VuemUiLCJpYXQiOjE3NzIxMTIwMTV9.njxCD8rEP0jOv7xQ46m59kgMNnpcLOgYjBdhD36KKkA

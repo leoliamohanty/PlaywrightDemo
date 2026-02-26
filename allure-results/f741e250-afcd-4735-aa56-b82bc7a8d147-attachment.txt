@@ -1,5 +1,0 @@
-Registering user with email: Arne_Wyman@yahoo.com Lelah Metz
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM1YWJkZDNiNzMwMDAxNTk2NGU5MiIsImZpcnN0TmFtZSI6IkxlbGFoIiwibGFzdE5hbWUiOiJNZXR6IiwiaWF0IjoxNzcxODU0NTI1fQ.qu7MAXOzwCPrycfU7O0-V10I4nmPaW0HZ7E7842omVM","userID":"699c5abdd3b7300015964e92","firstName":"Lelah"}
-User registered successfully!
-Email: Arne_Wyman@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM1YWJkZDNiNzMwMDAxNTk2NGU5MiIsImZpcnN0TmFtZSI6IkxlbGFoIiwibGFzdE5hbWUiOiJNZXR6IiwiaWF0IjoxNzcxODU0NTI1fQ.qu7MAXOzwCPrycfU7O0-V10I4nmPaW0HZ7E7842omVM

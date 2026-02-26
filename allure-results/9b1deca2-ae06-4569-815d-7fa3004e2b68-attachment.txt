@@ -1,5 +1,0 @@
-Registering user with email: Hadley.Mitchell38@gmail.com Juana Farrell
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM1YTdhZDNiNzMwMDAxNTk2NGU3ZCIsImZpcnN0TmFtZSI6Ikp1YW5hIiwibGFzdE5hbWUiOiJGYXJyZWxsIiwiaWF0IjoxNzcxODU0NDU4fQ.vtgaP8bMkRJnNqeKo1rdtBGmyqAJ-5R0oxDgIHELfSY","userID":"699c5a7ad3b7300015964e7d","firstName":"Juana"}
-User registered successfully!
-Email: Hadley.Mitchell38@gmail.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5OWM1YTdhZDNiNzMwMDAxNTk2NGU3ZCIsImZpcnN0TmFtZSI6Ikp1YW5hIiwibGFzdE5hbWUiOiJGYXJyZWxsIiwiaWF0IjoxNzcxODU0NDU4fQ.vtgaP8bMkRJnNqeKo1rdtBGmyqAJ-5R0oxDgIHELfSY

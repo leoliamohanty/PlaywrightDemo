@@ -1,0 +1,5 @@
+Registering user with email: Sofia35@gmail.com Joshuah Farrell
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0ODQ2OTJlNDMxMDAxNTVkZDk0OSIsImZpcnN0TmFtZSI6Ikpvc2h1YWgiLCJsYXN0TmFtZSI6IkZhcnJlbGwiLCJpYXQiOjE3NzIxMTE5NDJ9.8_aM2iOYujE_G1GsK9GGUQNSL0F5LgMHnmqMHF4zhJU","userID":"69a0484692e43100155dd949","firstName":"Joshuah"}
+User registered successfully!
+Email: Sofia35@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0ODQ2OTJlNDMxMDAxNTVkZDk0OSIsImZpcnN0TmFtZSI6Ikpvc2h1YWgiLCJsYXN0TmFtZSI6IkZhcnJlbGwiLCJpYXQiOjE3NzIxMTE5NDJ9.8_aM2iOYujE_G1GsK9GGUQNSL0F5LgMHnmqMHF4zhJU

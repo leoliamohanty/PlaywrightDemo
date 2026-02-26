@@ -1,0 +1,5 @@
+Registering user with email: Vanessa_Barton97@gmail.com Cecile Casper
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0ODZhOTJlNDMxMDAxNTVkZDk2MSIsImZpcnN0TmFtZSI6IkNlY2lsZSIsImxhc3ROYW1lIjoiQ2FzcGVyIiwiaWF0IjoxNzcyMTExOTc4fQ.yxCuaQTsTIHDdvZ3ca5Lv22vQgqep-B9Axw-t9J0hw0","userID":"69a0486a92e43100155dd961","firstName":"Cecile"}
+User registered successfully!
+Email: Vanessa_Barton97@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTA0ODZhOTJlNDMxMDAxNTVkZDk2MSIsImZpcnN0TmFtZSI6IkNlY2lsZSIsImxhc3ROYW1lIjoiQ2FzcGVyIiwiaWF0IjoxNzcyMTExOTc4fQ.yxCuaQTsTIHDdvZ3ca5Lv22vQgqep-B9Axw-t9J0hw0
