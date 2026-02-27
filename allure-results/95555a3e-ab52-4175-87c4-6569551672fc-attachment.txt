@@ -1,0 +1,5 @@
+Registering user with email: Joana58@gmail.com Wilbert Hudson
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTE2ZjExOTY0YTM2MDAxNTkzMzcyNSIsImZpcnN0TmFtZSI6IldpbGJlcnQiLCJsYXN0TmFtZSI6Ikh1ZHNvbiIsImlhdCI6MTc3MjE4NzQwOX0.8eKf1rIpfy-bcEbbdkLlHChh7aWrcrUXAmqXsWnXUog","userID":"69a16f11964a360015933725","firstName":"Wilbert"}
+User registered successfully!
+Email: Joana58@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTE2ZjExOTY0YTM2MDAxNTkzMzcyNSIsImZpcnN0TmFtZSI6IldpbGJlcnQiLCJsYXN0TmFtZSI6Ikh1ZHNvbiIsImlhdCI6MTc3MjE4NzQwOX0.8eKf1rIpfy-bcEbbdkLlHChh7aWrcrUXAmqXsWnXUog

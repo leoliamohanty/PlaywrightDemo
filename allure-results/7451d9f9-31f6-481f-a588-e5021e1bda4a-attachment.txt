@@ -1,0 +1,5 @@
+Registering user with email: Vernice16@hotmail.com Brant Yost
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTE2ZWVkOTY0YTM2MDAxNTkzMzcwNiIsImZpcnN0TmFtZSI6IkJyYW50IiwibGFzdE5hbWUiOiJZb3N0IiwiaWF0IjoxNzcyMTg3MzczfQ.5HiKgjn3YkXzqpJOwS4zNFQajbPFQOwT1xqz77RaYhY","userID":"69a16eed964a360015933706","firstName":"Brant"}
+User registered successfully!
+Email: Vernice16@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTE2ZWVkOTY0YTM2MDAxNTkzMzcwNiIsImZpcnN0TmFtZSI6IkJyYW50IiwibGFzdE5hbWUiOiJZb3N0IiwiaWF0IjoxNzcyMTg3MzczfQ.5HiKgjn3YkXzqpJOwS4zNFQajbPFQOwT1xqz77RaYhY
