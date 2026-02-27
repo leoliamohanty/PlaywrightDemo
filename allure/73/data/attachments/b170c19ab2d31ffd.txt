@@ -1,0 +1,5 @@
+Registering user with email: Jasmin32@gmail.com Eli Blick
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTFiMWM5OTY0YTM2MDAxNTkzMzhjMyIsImZpcnN0TmFtZSI6IkVsaSIsImxhc3ROYW1lIjoiQmxpY2siLCJpYXQiOjE3NzIyMDQ0ODl9.T4vSABAC0BtSWh3Q0IseS4YceLretUutJRf_TtrUANM","userID":"69a1b1c9964a3600159338c3","firstName":"Eli"}
+User registered successfully!
+Email: Jasmin32@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTFiMWM5OTY0YTM2MDAxNTkzMzhjMyIsImZpcnN0TmFtZSI6IkVsaSIsImxhc3ROYW1lIjoiQmxpY2siLCJpYXQiOjE3NzIyMDQ0ODl9.T4vSABAC0BtSWh3Q0IseS4YceLretUutJRf_TtrUANM

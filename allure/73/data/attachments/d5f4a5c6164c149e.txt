@@ -1,0 +1,5 @@
+Registering user with email: Reggie53@hotmail.com Mylene Morissette
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTFiMTkwOTY0YTM2MDAxNTkzMzg5ZCIsImZpcnN0TmFtZSI6Ik15bGVuZSIsImxhc3ROYW1lIjoiTW9yaXNzZXR0ZSIsImlhdCI6MTc3MjIwNDQzMn0.Wk2W9-VxDxYdSI4DU8S_X-foNr9GH6LWbvWn9M8vdZk","userID":"69a1b190964a36001593389d","firstName":"Mylene"}
+User registered successfully!
+Email: Reggie53@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTFiMTkwOTY0YTM2MDAxNTkzMzg5ZCIsImZpcnN0TmFtZSI6Ik15bGVuZSIsImxhc3ROYW1lIjoiTW9yaXNzZXR0ZSIsImlhdCI6MTc3MjIwNDQzMn0.Wk2W9-VxDxYdSI4DU8S_X-foNr9GH6LWbvWn9M8vdZk
