@@ -1,0 +1,5 @@
+Registering user with email: Velva_Kihn@hotmail.com Dahlia Fisher
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTg0OWY5NTI1NzUzMDAxNTdlMzU4OSIsImZpcnN0TmFtZSI6IkRhaGxpYSIsImxhc3ROYW1lIjoiRmlzaGVyIiwiaWF0IjoxNzcyNjM2NjY1fQ.pJ5yGyOuOPiKXc8ProoRX4fvNDV4iRmQZyGp3PFHV0o","userID":"69a849f952575300157e3589","firstName":"Dahlia"}
+User registered successfully!
+Email: Velva_Kihn@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTg0OWY5NTI1NzUzMDAxNTdlMzU4OSIsImZpcnN0TmFtZSI6IkRhaGxpYSIsImxhc3ROYW1lIjoiRmlzaGVyIiwiaWF0IjoxNzcyNjM2NjY1fQ.pJ5yGyOuOPiKXc8ProoRX4fvNDV4iRmQZyGp3PFHV0o

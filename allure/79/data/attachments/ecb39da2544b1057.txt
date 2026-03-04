@@ -1,0 +1,5 @@
+Registering user with email: Keely_Gerhold62@hotmail.com Vena Lemke
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTg0OTlmNTI1NzUzMDAxNTdlMzU1OCIsImZpcnN0TmFtZSI6IlZlbmEiLCJsYXN0TmFtZSI6IkxlbWtlIiwiaWF0IjoxNzcyNjM2NTc1fQ.Nisj5gJSo9YAita-atuMdyMl0Wi8G0TBS2vFVRX-xPE","userID":"69a8499f52575300157e3558","firstName":"Vena"}
+User registered successfully!
+Email: Keely_Gerhold62@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTg0OTlmNTI1NzUzMDAxNTdlMzU1OCIsImZpcnN0TmFtZSI6IlZlbmEiLCJsYXN0TmFtZSI6IkxlbWtlIiwiaWF0IjoxNzcyNjM2NTc1fQ.Nisj5gJSo9YAita-atuMdyMl0Wi8G0TBS2vFVRX-xPE
