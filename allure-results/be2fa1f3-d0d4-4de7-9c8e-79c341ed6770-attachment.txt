@@ -1,0 +1,5 @@
+Registering user with email: Agnes_Sawayn@hotmail.com Rogers Tremblay
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzMmI4NTI1NzUzMDAxNTdlMzI2YiIsImZpcnN0TmFtZSI6IlJvZ2VycyIsImxhc3ROYW1lIjoiVHJlbWJsYXkiLCJpYXQiOjE3NzI2MzA3MTJ9.X7S125-vdQFwVmiNoLAsPb454Jb6TOzMl9o4D7pH7a0","userID":"69a832b852575300157e326b","firstName":"Rogers"}
+User registered successfully!
+Email: Agnes_Sawayn@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzMmI4NTI1NzUzMDAxNTdlMzI2YiIsImZpcnN0TmFtZSI6IlJvZ2VycyIsImxhc3ROYW1lIjoiVHJlbWJsYXkiLCJpYXQiOjE3NzI2MzA3MTJ9.X7S125-vdQFwVmiNoLAsPb454Jb6TOzMl9o4D7pH7a0

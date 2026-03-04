@@ -1,5 +1,0 @@
-Registering user with email: Dell_Fadel40@yahoo.com Reagan Donnelly
-Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTE2ZjNiOTY0YTM2MDAxNTkzMzc0NCIsImZpcnN0TmFtZSI6IlJlYWdhbiIsImxhc3ROYW1lIjoiRG9ubmVsbHkiLCJpYXQiOjE3NzIxODc0NTF9.CZ85viEVxGP6A8WVAgpGEek9c8t1gJFmCT3eUSE2aaw","userID":"69a16f3b964a360015933744","firstName":"Reagan"}
-User registered successfully!
-Email: Dell_Fadel40@yahoo.com
-Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTE2ZjNiOTY0YTM2MDAxNTkzMzc0NCIsImZpcnN0TmFtZSI6IlJlYWdhbiIsImxhc3ROYW1lIjoiRG9ubmVsbHkiLCJpYXQiOjE3NzIxODc0NTF9.CZ85viEVxGP6A8WVAgpGEek9c8t1gJFmCT3eUSE2aaw

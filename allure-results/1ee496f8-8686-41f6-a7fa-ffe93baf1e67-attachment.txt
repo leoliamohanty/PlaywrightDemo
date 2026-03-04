@@ -1,0 +1,5 @@
+Registering user with email: Carlie15@hotmail.com Kyra Nikolaus
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzMjhiNTI1NzUzMDAxNTdlMzI0YyIsImZpcnN0TmFtZSI6Ikt5cmEiLCJsYXN0TmFtZSI6Ik5pa29sYXVzIiwiaWF0IjoxNzcyNjMwNjY3fQ.gypSmSJZLeK9SdTjfX_1hBrlKHQOPoQVTTuoZ9r3WfY","userID":"69a8328b52575300157e324c","firstName":"Kyra"}
+User registered successfully!
+Email: Carlie15@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzMjhiNTI1NzUzMDAxNTdlMzI0YyIsImZpcnN0TmFtZSI6Ikt5cmEiLCJsYXN0TmFtZSI6Ik5pa29sYXVzIiwiaWF0IjoxNzcyNjMwNjY3fQ.gypSmSJZLeK9SdTjfX_1hBrlKHQOPoQVTTuoZ9r3WfY

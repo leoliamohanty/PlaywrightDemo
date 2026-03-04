@@ -67,7 +67,7 @@ test('should capture console messages', async ({ page }) => {
     }
   });
 
-  await page.goto('https://example.com');
+  await page.goto('/login');
 
   await page.evaluate(() => {
     console.log('Hello from browser');
@@ -83,7 +83,7 @@ test('should capture page errors', async ({ page }) => {
     errorMessage = error.message;
   });
 
-  await page.goto('https://example.com');
+  await page.goto('/login');
 
   try {
     await page.evaluate(() => {
@@ -139,4 +139,57 @@ test('should wait for specific API response', async ({ page }) => {
 
   expect(result).toHaveProperty('success', true);
   expect(result.data).toHaveProperty('email', 'test@example.com');
+});
+
+
+
+test.describe('Authentication Tests', () => {
+
+  test('Valid user login', async ({ page }) => {
+    await page.goto('https://the-internet.herokuapp.com/login');
+    await page.fill('#username', 'tomsmith');
+    await page.fill('#password', 'SuperSecretPassword!');
+    await page.click('button[type="submit"]');
+
+    await expect(page).toHaveURL(/secure/);
+    await expect(page.locator('.flash.success'))
+      .toContainText('You logged into a secure area!');
+  });
+
+  test('Invalid user login', async ({ page }) => {
+    await page.goto('https://the-internet.herokuapp.com/login');
+    await page.fill('#username', 'wronguser');
+    await page.fill('#password', 'wrongpassword');
+    await page.click('button[type="submit"]');
+
+    await expect(page.locator('.flash.error'))
+      .toContainText('Your username is invalid!');
+  });
+
+});
+
+test.describe('Form Submission', () => {
+  test('Submit contact form successfully', async ({ page }) => {
+    await page.goto('https://demoqa.com/text-box');
+
+    await page.fill('#userName', 'John Doe');
+    await page.fill('#userEmail', 'john@example.com');
+    await page.fill('#currentAddress', '123 Main St');
+    await page.fill('#permanentAddress', '456 Side St');
+
+    await page.click('#submit');
+
+    await expect(page.locator('#output #name')).toContainText('John Doe');
+    await expect(page.locator('#output #email')).toContainText('john@example.com');
+  });
+});
+
+test.describe.skip('Table Verification', () => {
+  test('Check table has at least one row', async ({ page }) => {
+    await page.goto('https://demoqa.com/webtables');
+
+    const rows = page.locator('div.rt-tr-group');
+    const count = await rows.count();
+    expect(count).toBeGreaterThan(0);
+  });
 });

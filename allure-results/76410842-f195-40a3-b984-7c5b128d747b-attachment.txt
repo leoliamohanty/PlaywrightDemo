@@ -1,0 +1,5 @@
+Registering user with email: Jade96@yahoo.com Idell Heathcote
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzMjYyNTI1NzUzMDAxNTdlMzIyZCIsImZpcnN0TmFtZSI6IklkZWxsIiwibGFzdE5hbWUiOiJIZWF0aGNvdGUiLCJpYXQiOjE3NzI2MzA2MjZ9.HPI5MOfET_ZshT7n69IB0vwuEmcQmQwtfFiVwAdMhQ8","userID":"69a8326252575300157e322d","firstName":"Idell"}
+User registered successfully!
+Email: Jade96@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzMjYyNTI1NzUzMDAxNTdlMzIyZCIsImZpcnN0TmFtZSI6IklkZWxsIiwibGFzdE5hbWUiOiJIZWF0aGNvdGUiLCJpYXQiOjE3NzI2MzA2MjZ9.HPI5MOfET_ZshT7n69IB0vwuEmcQmQwtfFiVwAdMhQ8
