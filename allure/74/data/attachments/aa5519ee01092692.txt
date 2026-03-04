@@ -1,0 +1,5 @@
+Registering user with email: Greyson_Carter@hotmail.com Lafayette Streich
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzNzQ1NTI1NzUzMDAxNTdlMzJjZSIsImZpcnN0TmFtZSI6IkxhZmF5ZXR0ZSIsImxhc3ROYW1lIjoiU3RyZWljaCIsImlhdCI6MTc3MjYzMTg3N30.oTHTSr-7nm3ILdX_vKIpfonnpls7raqN8kggMuM0SD8","userID":"69a8374552575300157e32ce","firstName":"Lafayette"}
+User registered successfully!
+Email: Greyson_Carter@hotmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzNzQ1NTI1NzUzMDAxNTdlMzJjZSIsImZpcnN0TmFtZSI6IkxhZmF5ZXR0ZSIsImxhc3ROYW1lIjoiU3RyZWljaCIsImlhdCI6MTc3MjYzMTg3N30.oTHTSr-7nm3ILdX_vKIpfonnpls7raqN8kggMuM0SD8

@@ -1,0 +1,2 @@
+Dialog message: This is a test alert message!
+Downloaded file name: test-file.txt

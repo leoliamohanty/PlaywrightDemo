@@ -1,0 +1,5 @@
+Registering user with email: Norbert42@gmail.com Shayne Gutmann
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzNjQwNTI1NzUzMDAxNTdlMzI5MCIsImZpcnN0TmFtZSI6IlNoYXluZSIsImxhc3ROYW1lIjoiR3V0bWFubiIsImlhdCI6MTc3MjYzMTYxNn0.yPYeazK2PKzq17iOOpvr57yMigdD_NZYUpbRjwoGN0Q","userID":"69a8364052575300157e3290","firstName":"Shayne"}
+User registered successfully!
+Email: Norbert42@gmail.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzNjQwNTI1NzUzMDAxNTdlMzI5MCIsImZpcnN0TmFtZSI6IlNoYXluZSIsImxhc3ROYW1lIjoiR3V0bWFubiIsImlhdCI6MTc3MjYzMTYxNn0.yPYeazK2PKzq17iOOpvr57yMigdD_NZYUpbRjwoGN0Q

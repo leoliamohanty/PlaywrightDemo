@@ -1,0 +1,5 @@
+Registering user with email: Amie.Kuphal52@yahoo.com Karson Hand
+Response body: {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzNmM0NTI1NzUzMDAxNTdlMzJhZiIsImZpcnN0TmFtZSI6IkthcnNvbiIsImxhc3ROYW1lIjoiSGFuZCIsImlhdCI6MTc3MjYzMTc0OH0.krzNWLZK5MVRWjCVX2CuUaI4Nk6EPftj3NjhXHwSLQo","userID":"69a836c452575300157e32af","firstName":"Karson"}
+User registered successfully!
+Email: Amie.Kuphal52@yahoo.com
+Access token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YTgzNmM0NTI1NzUzMDAxNTdlMzJhZiIsImZpcnN0TmFtZSI6IkthcnNvbiIsImxhc3ROYW1lIjoiSGFuZCIsImlhdCI6MTc3MjYzMTc0OH0.krzNWLZK5MVRWjCVX2CuUaI4Nk6EPftj3NjhXHwSLQo
