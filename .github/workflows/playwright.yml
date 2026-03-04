@@ -63,7 +63,7 @@ jobs:
         if: always()
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GH_CLASSIC_TOKEN }} # Generated token in settings variable
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: gh-pages
           publish_branch: gh-pages
           force_orphan: false # CHANGED: Set to false to preserve history
